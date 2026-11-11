@@ -1,24 +1,33 @@
-# Medios (carpeta para los archivos reales)
+# Medios (fotos y videos reales listos para usar)
 
-Este cerebro guarda **texto**; los archivos pesados (fotos, videos, audios, logos, fuentes) van aquí cuando se suban al repo. Catálogo de qué hay y para qué sirve: `recursos/mapa-de-medios.md`.
+Todo es material **real** de eventos de Herrera, en versión **liviana** (videos H.264 de hasta 1080 px de ancho, **sin audio**, colores en SDR sin alterar; fotos de hasta 2000 px). Los **originales 4K/HDR siguen en el PC del dueño**: no están en este repo.
+Catálogo de qué muestra cada archivo: `recursos/mapa-de-medios.md` (el ID `mNN` del nombre coincide con el catálogo).
 
-## Estructura propuesta
+## Estructura
 ```
 medios/
-  marca/            logos (SVG/PNG), monograma, patrones, fuentes, uniforme
-  servicios/        un subdirectorio por servicio: fotocabina/, punto-foto/, plataforma-360/,
-                    aero360/, selfie-mirror/, eco-de-amor/, ceremonia/, album/
-  eventos-reales/   fotos y frames de eventos (con ficha de permiso)
-  stories-referencias/   frames por servicio (los 4 marcados para limpiar, aparte)
-  creadora/         aprobadas/ · pruebas/   (en pausa)
-  voz-y-audio/      voz aprobada, música libre de derechos (con licencia anotada)
-  piezas-por-semana/  semana-01/ …  (borradores y aprobadas por separado)
+  servicios/<servicio>/mNN-descripcion.mp4|jpg   39 clips y fotos por servicio:
+      aero360, album, ceremonia, eco-de-amor, fotocabina, plataforma-360,
+      punto-foto, selfie-mirror, varios-servicios
+  eventos-reales/        8 fotos de eventos con permiso (cumpleaños, 360, Selfie Mirror de Karen y Franco, arco, Eco de Amor)
+  marca/
+    logos/               logo horizontal negro y blanco (PNG transparente), logo de la app
+    uniforme/            maqueta de la polera del staff
+    renders-producto/    tótem y cabina inflable (para no inventar equipos distintos)
+    fuentes/             Sora y Montserrat
+  referencias-stories/<servicio>/   ~80 frames mejorados como referencia para stories (1080 px)
+piezas/
+  semana-01/borrador/    los 4 reels de la semana 1 (sin música) y sus portadas
 ```
 
 ## Reglas
-- **Originales intactos:** nunca sobrescribir; las ediciones van en `piezas-por-semana/`.
-- Nombre de archivo: `servicio_descripcion_AAAAMMDD.ext` en minúsculas, sin espacios.
-- Cada carpeta lleva un `fichas.csv`: archivo, qué es, origen, **permiso (sí/no)**, personas reconocibles (sí/no), estado (borrador/aprobado), nota.
-- Solo entra material con permiso. Lo que no es de Herrera (inspiración, competencia) va marcado «solo referencia» y **no se republica**.
-- Videos pesados: usar Git LFS o un almacenamiento aparte (Drive) y dejar aquí el enlace en la ficha.
-- Tamaño actual de la biblioteca de origen: ~1,5 GB en la biblioteca de marca + ~0,8 GB en la carpeta «Recursos» (39 videos y fotos).
+- **Enlace público de cualquier archivo:** `python herramientas/enlace_publico.py medios/servicios/fotocabina/m15-fotocabina-vista-exterior-con-invitados.mp4` (ver `CLAUDE.md`).
+- Los videos van **sin audio**: la música (libre de derechos) se agrega en Instagram o al montar.
+- Originales intactos en el PC; aquí solo copias livianas. Las ediciones nuevas van en `piezas/semana-NN/` (borrador y aprobado por separado).
+- Nombres en minúsculas con guiones, sin espacios ni tildes. Límite de GitHub: 100 MB por archivo.
+- Solo entra material con permiso. Lo que no es de Herrera (inspiración, competencia) **no se sube**: queda solo en el PC como referencia.
+- Las referencias de stories son frames «mejorados» (no son originales): úsalas como guía de encuadre y no las presentes como fotos tomadas en un evento sin confirmar con el dueño. Los 4 marcados «para limpiar» (overlays/reflejos) **no se subieron**.
+
+## Qué NO está aquí (sigue solo en el PC)
+Originales 4K, la carpeta de la creadora digital (en pausa), fotos de inspiración de otros creadores, historias rescatadas y la versión 1 de los reels (rechazada).
+Falta una foto: M20 (Plataforma 360, formato HEIC) no se pudo convertir.

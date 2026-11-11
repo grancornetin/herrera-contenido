@@ -1,0 +1,13 @@
+{
+  "extraKnownMarketplaces": {
+    "matriz-viralidad": { "source": { "source": "github", "repo": "Hainrixz/matriz-viralidad" } },
+    "creative-architect": { "source": { "source": "github", "repo": "Hainrixz/creative-architect" } },
+    "hyperframes": { "source": { "source": "github", "repo": "heygen-com/hyperframes" } }
+  },
+  "enabledPlugins": {
+    "matriz-viralidad@matriz-viralidad": true,
+    "creative-architect@creative-architect": true,
+    "hyperframes@hyperframes": true,
+    "canva@anthropic-plugin-directory": true
+  }
+}

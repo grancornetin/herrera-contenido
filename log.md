@@ -10,3 +10,6 @@ Se copió el cerebro v1 al repo `herrera-contenido` (local, sin commit). Se agre
 
 ## [2026-11-11] cambio | Repo listo para trabajar
 Se agregaron `.claude/skills` (13 ig-* auditadas + stop-slop), `.claude/agents` (17 de agency-agents + Director de Contenido), `herramientas/enlace_publico.py` para enlaces de Metricool y guía de arranque. Se quitó la tarea de instalar skills (ya vienen en el repo). Pendiente: `.claude/settings.json` (activa los plugins).
+
+## [2026-11-11] cambio | Medios y plugins
+Se subieron los medios en versión liviana (clips por servicio, fotos de eventos, marca, referencias de stories y los 4 reels de la semana 1 en borrador) y `.claude/settings.json` con los 4 plugins. Los originales quedan en el PC. Falta convertir M20 (HEIC).

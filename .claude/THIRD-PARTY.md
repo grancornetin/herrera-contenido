@@ -10,3 +10,5 @@
 Las `ig-*` se revisaron antes de incluirlas: sus 6 scripts usan solo la biblioteca estándar de Python y no hacen llamadas de red, no borran archivos ni leen claves. Están pensadas para inglés: en español sirven para estructura, largo y revisión, pero sus listas de «palabras de IA» y fórmulas de gancho son en inglés.
 
 Los plugins (`matriz-viralidad`, `creative-architect`, `hyperframes`, `canva`) **no se copian**: se activan desde `settings.json` y se descargan de sus propios repositorios la primera vez.
+
+| `medios/marca/fuentes/` (Sora, Montserrat) | Google Fonts | SIL Open Font License |
