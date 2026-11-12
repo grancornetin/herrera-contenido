@@ -39,3 +39,14 @@ Pack Estrella (matrimonios), Dúo Fiesta, Punto Foto (rincón decorado), empresa
 Meta Ads Manager, WhatsApp Business (y catálogo), Metricool (gratis), Windsor.ai. Conocer la herramienta no significa tener acceso actual a sus datos.
 
 Relacionado: [[audiencias-y-angulos]] · [[plantillas-de-piezas]] · [[reglas-de-oro]]
+
+## Prueba de 5 enfoques para el anuncio Pack Estrella (12-nov) [en curso]
+El dueño pidió que el anuncio lleve **texto en pantalla, música y voz en off** (no video mudo) y probar al menos 5 enfoques antes de elegir. Voz: **Pía** (ElevenLabs, voice_id 7lM6ne5oGCjAMr4g5EQc, modelo eleven_v4). Música: disco-funk estilo fines de los 70 generada en ElevenLabs (sin copiar canciones existentes). Clips: solo reales. Texto blanco Montserrat con sombra suave, arriba de las cabezas, sin cuadros.
+| # | Enfoque | Gancho (voz) | Texto inicial | Estado |
+|---|---|---|---|---|
+| 1 | Entretención | «¿Quieres que nadie se aburra en tu evento?» | Cero invitados aburridos | Hecho (15,9 s) |
+| 2 | Precio y abono | «Tres experiencias para tu evento, desde 240 mil la hora» | 3 experiencias para tu evento | Hecho (15,9 s) |
+| 3 | Recuerdo | «La fiesta se termina. Los recuerdos, no.» | — | Falta voz (ElevenLabs saturado) |
+| 4 | Invitados protagonistas | «Así viven tus invitados el Pack Estrella» | Así lo viven tus invitados | Hecho (15,2 s) |
+| 5 | Asesoría | «¿No sabes qué contratar para tu evento? Te ayudamos.» | — | Falta voz (ElevenLabs saturado) |
+Plan: medir con el predictor de Higgsfield (máx. 16 s) y subir los 2–3 mejores como anuncios separados dentro del mismo conjunto en Meta, para que el gasto real decida.

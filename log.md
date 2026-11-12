@@ -40,3 +40,6 @@ Se creó por Windsor, en pausa, la campaña, el conjunto y el anuncio de Pack Es
 
 ## [2026-11-12] cambio | Anuncio Pack Estrella: 29 días y solo mujeres
 El dueño pidió que los $50.000 duren ~30 días y que el público sea solo mujeres (dato comprobado por él). Se actualizó el conjunto en Meta: $49.000 del 14-nov al 13-dic (mínimo de Meta ~$1.670 diarios), mujeres 24–55.
+
+## [2026-11-12] cambio | Anuncios con voz, música y texto: prueba de 5 enfoques
+El dueño corrigió: los anuncios llevan texto, música y voz (Pía). Se conectó ElevenLabs, se crearon 3 de 5 enfoques y se mandaron al predictor de Higgsfield. Nuevo entorno de nube «Herrera Producciones contenido» para descargar de ElevenLabs/Higgsfield. Detalle en contenido/anuncios-meta.md.
