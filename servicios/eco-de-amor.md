@@ -15,13 +15,13 @@ Un momento tranquilo: toma el teléfono, dice lo que quiera (saludos, risas, con
 Teléfono con saludo personalizado · mesa · señalética y decoración · letrero neón «Deja tu mensaje» · organización de los audios y **entrega por Drive** a los anfitriones.
 
 ## No incluye / límites
-Sin video. **Plazo de entrega no definido.** No prometer operador permanente. En los packs «Todo Incluido» la **duración de Eco de Amor se especifica en la cotización**: no asumir que está activo todo el evento (a diferencia del Selfie Mirror).
+Sin video. **Plazo de entrega no definido.** No prometer operador permanente. En los packs «Todo Incluido» Eco de Amor dura **las mismas horas contratadas** del pack [CONFIRMADO, 12-nov]; no está todo el evento (a diferencia del Selfie Mirror).
 
 ## Qué necesita el lugar
 Un espacio tranquilo, visible y accesible; energía; 3 × 3 m. Interior ideal.
 
 ## Precios (CLP, netos, + traslado)
-1 h $60.000 · 2 h $90.000 · 3 h $120.000 · hora adicional a cotizar. Ver [[tarifario-vigente]].
+1 h $60.000 · 2 h $90.000 · 3 h $120.000 · 4 h $168.000 [CALCULADO] · hora adicional **$48.000** (1 h − 20 %). Ver [[tarifario-vigente]].
 
 ## Para qué eventos
 Matrimonios íntimos y civiles (muy valioso), como reparto de tráfico en bodas grandes, aniversarios, celebraciones familiares. **No se recomienda en cumpleaños infantiles.**

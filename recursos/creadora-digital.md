@@ -1,12 +1,14 @@
 ---
 tipo: recursos
-estado: pausado
-actualizado: 2026-11-11
+estado: activa
+actualizado: 2026-11-12
 fuentes: [07_MARCA_Y_MARKETING/04, CONTEXTO_CLAUDE_CODE, proyecto Amelia (pausado 6-nov)]
 ---
 # Creadora digital («Amelia») y voz («Pía»)
 
-**Estado: EN PAUSA.** La semana 1 usa solo clips reales y música, sin creadora ni voz, para comparar. No generar contenido con ella salvo orden del dueño.
+**Estado: ACTIVA [CONFIRMADO, 12-nov].** El dueño dice que «las creadoras» están siempre disponibles; Sus rostros están guardados como **Soul** (personaje entrenado) en Higgsfield. **Voz: solo «Pía»** por ahora [CONFIRMADO, 12-nov].
+
+**Uso acordado (12-nov):** presentan y explican los servicios; después entran los clips reales del servicio. **Nunca** como invitadas, clientas ni testimonio. El contenido realista hecho con IA se marca con la etiqueta de IA de Instagram. Cada generación gasta créditos: avisar el costo antes.
 
 ## Qué es
 Una modelo **propia y generada con IA** (no es una persona real). Nunca se presenta como testimonio de una clienta ni como asistente a eventos reales. La única persona que aparece en cámara en el contenido es ella (no el dueño ni el equipo). Voz en off prevista: **«Pía»** (ElevenLabs; falta el ID/nombre de la voz guardada y el archivo maestro).

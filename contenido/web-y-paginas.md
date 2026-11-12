@@ -1,6 +1,6 @@
 ---
 tipo: contenido
-actualizado: 2026-11-11
+actualizado: 2026-11-12
 fuentes: [fichas públicas del catálogo web, actualización web 21-oct]
 ---
 # Web: catálogo y fichas de servicios
@@ -35,6 +35,6 @@ Traslado y IVA («Valor final para particulares. Empresas con boleta o factura: 
 Cada nuevo servicio o accesorio necesita: nombre, descripción, inclusiones, exclusiones, unidad de cobro, variantes, tarifa, opcionales, disponibilidad y fecha de aprobación. Se agrega primero al cerebro (`servicios/`, `precios/`) y luego a la web.
 
 ## Pendiente de decisión
-¿La web publica precios completos o solo «desde»? (hoy publica precios por duración). Texto y aviso de uso del número de WhatsApp al entregar videos.
+~~¿Precios completos o «desde»?~~ **Resuelto 12-nov: «desde»** (hoy la web publica precios por duración; hay que cambiarla). Agregar las tarifas de 1 h y quitar Aero360 de los packs. **Se hace en otra sesión, con el repo de la web** (decisión 12-nov). Texto y aviso de uso del número de WhatsApp al entregar videos.
 
 Relacionado: [[marca-y-voz]] · [[plantillas-de-piezas]] · [[tarifario-vigente]]

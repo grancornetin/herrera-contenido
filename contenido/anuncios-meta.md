@@ -12,6 +12,8 @@ fuentes: [07_MARCA_Y_MARKETING/03, CONTEXTO_CLAUDE_CODE §2 y §8]
 - Landing: catálogo de packs `https://cotizador-grancornetin.vercel.app/packs/` (14 páginas de servicio). Verificar que sigue vigente antes de apuntar un anuncio.
 - Si la cuenta publicitaria muestra campañas de otro negocio del dueño, **ignorarlas** en todo análisis de este proyecto (solo cuentan las de Herrera Producciones).
 
+- **Precio en anuncios:** sí, como «desde $…» y «más traslado» [CONFIRMADO, 12-nov].
+
 ## Cómo preparar un anuncio (sin publicar)
 Copy, variantes, audiencia candidata, recursos reales y un resumen revisable. **No publicar, no subir gasto y no lanzar campañas nuevas sin autorización expresa.** No prometer «mensajes a montones» ni un anuncio ganador.
 - Audiencia de prueba (hipótesis): mujeres 20–55, Maule, intereses de matrimonio/eventos. No mezclar intereses sin hipótesis; verificar la configuración actual antes de recomendar pasos de interfaz.

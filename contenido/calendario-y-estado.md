@@ -1,6 +1,6 @@
 ---
 tipo: contenido
-actualizado: 2026-11-11
+actualizado: 2026-11-12
 fuentes: [calendario semana 1 v3 (aprobado 6-nov), CONTEXTO_CLAUDE_CODE §6-7, actualización web 21-oct §9]
 ---
 # Calendario y estado del contenido
@@ -26,6 +26,11 @@ Fuera de esta semana: Aero360 (ya salió el 4), Eco de Amor, Álbum y Arco hexag
 
 ## Estado de los reels de la semana 1 (al 6-nov-2026)
 Los 4 reels se rehicieron con **motion design por capas** (la primera versión, clips con texto encima, fue rechazada por básica) y quedaron renderizados 1080 × 1920, **sin música** (el dueño la agrega en Instagram): Fotocabina 17 s, Plataforma 360 16,4 s, Punto Foto 14 s, Selfie Mirror 15,4 s. Esperan revisión del dueño. **No se sabe si se alcanzó a subir el de vie 6 y el de sáb 7.** Después de publicar: medir (`matriz-analiticas`) y armar la semana 2.
+
+## Estado al 12-nov-2026 [CONFIRMADO]
+- **No se publicó ninguno de los 4 reels de la semana 1** (dice el dueño). Siguen en `piezas/semana-01/borrador/`.
+- Metricool (conector de Claude): la marca conectada **no tiene ninguna red vinculada** y no hay nada programado. Hay que reconectar Instagram en Metricool.
+- El dueño decide **partir de cero** con contenido y anuncios. El esqueleto de abajo queda como referencia, no como plan.
 
 ## Esqueleto de las semanas siguientes (borrador, pendiente de aprobación)
 - **Semana 1 (5–8 nov):** «Elige tu experiencia».

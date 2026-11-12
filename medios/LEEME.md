@@ -29,5 +29,5 @@ piezas/
 - Las referencias de stories son frames «mejorados» (no son originales): úsalas como guía de encuadre y no las presentes como fotos tomadas en un evento sin confirmar con el dueño. Los 4 marcados «para limpiar» (overlays/reflejos) **no se subieron**.
 
 ## Qué NO está aquí (sigue solo en el PC)
-Originales 4K, la carpeta de la creadora digital (en pausa), fotos de inspiración de otros creadores, historias rescatadas y la versión 1 de los reels (rechazada).
+Originales 4K, la carpeta de la creadora digital (activa), fotos de inspiración de otros creadores, historias rescatadas y la versión 1 de los reels (rechazada).
 Falta una foto: M20 (Plataforma 360, formato HEIC) no se pudo convertir.

@@ -1,12 +1,12 @@
 ---
 tipo: en-camino
-actualizado: 2026-11-11
+actualizado: 2026-11-12
 fuentes: [02_CATALOGO/11_PRELANZAMIENTOS, actualización web 21-oct, CONTEXTO_CLAUDE_CODE]
 ---
 # En camino: GlamCam, Cápsula de Recuerdos y novedades
 
 ## Estado en una línea
-**Ninguno de los dos prelanzamientos está activo.** No se anuncian en contenido público, no se cobran abonos por ellos y no se muestran como servicios disponibles.
+**Ninguno de los dos prelanzamientos está activo.** Fecha, nombre y precio siguen sin definir; **sin contenido por ahora** [CONFIRMADO, 12-nov]. No se anuncian en contenido público, no se cobran abonos por ellos y no se muestran como servicios disponibles.
 
 ## GlamCam · «Pasarela Slow Motion»
 - **Qué sería:** experiencia tipo pasarela o alfombra roja: los invitados caminan, posan o giran ante una cámara y reciben un **video en cámara lenta**. Distinta de la 360 y complementaria.

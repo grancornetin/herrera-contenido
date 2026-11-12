@@ -1,6 +1,6 @@
 ---
 tipo: precios
-actualizado: 2026-11-11
+actualizado: 2026-11-12
 fuentes: [tarifario consolidado (29-oct), actualización web 21-oct, fichas públicas (catálogo web), confirmaciones 15-oct y 20-oct]
 ---
 # Tarifario vigente (temporada 2026–2027)
@@ -14,12 +14,13 @@ fuentes: [tarifario consolidado (29-oct), actualización web 21-oct, fichas púb
 | Punto Foto | $90.000 | $120.000 | $170.000 | $240.000 | — | $70.000 (sujeta a papel) |
 | Plataforma 360 | $90.000 | $120.000 | $180.000 | $240.000 | — | $60.000 |
 | Aero360 | $90.000 | $120.000 | $180.000 | $240.000 | — | $60.000 |
-| Eco de Amor | $60.000 | $90.000 | $120.000 | — | — | A cotizar |
+| Eco de Amor | $60.000 | $90.000 | $120.000 | $168.000 | — | **$48.000** [CALCULADO] |
 | Selfie Mirror | — | — | — | — | **$60.000** | No aplica |
 | Arco hexagonal | — | — | — | — | **$80.000** | No aplica |
 | Puertas de roble + arco | — | — | — | — | **$100.000** | No aplica |
 
-Las 4 horas se calculan sumando una hora adicional al valor de 3 h. «—» = no hay tarifa publicada; no inventarla.
+**Más de 3 horas** (servicios y packs): valor de 3 h + una hora adicional por cada hora extra (4 h = 3 h + 1; 5 h = 3 h + 2…) [CONFIRMADO, 12-nov]. En un pack se suma la hora adicional **de cada servicio que funciona por horas** (el Selfie Mirror no suma: está todo el evento).
+**Hora adicional de Eco de Amor:** valor de 1 h menos 20 %, redondeado al múltiplo de mil más cercano → $60.000 − 20 % = **$48.000** [CONFIRMADO la regla, 12-nov]. «—» = no hay tarifa publicada; no inventarla.
 
 ## Packs (valor final del conjunto)
 Ver tabla completa en [[packs-y-combinaciones]]. Pack Estrella: 2 h $300.000 · 3 h $430.000. Dúo Fiesta: 2 h $250.000 · 3 h $380.000.
@@ -31,16 +32,20 @@ Ver tabla completa en [[packs-y-combinaciones]]. Pack Estrella: 2 h $300.000 · 
 Abono fijo **$25.000** (se descuenta del total) · saldo 48 h antes. Ver [[como-se-reserva-y-entrega]].
 
 ## Qué se publica dónde
-- **Fichas web (catálogo público):** Fotocabina 1–4 h; Plataforma 360, Aero360 y Punto Foto 2–4 h; Eco de Amor 2–3 h; packs 2–3 h; Selfie Mirror y ceremonia por evento. **Las tarifas de 1 h de 360/Aero360/Punto Foto/Eco y de los packs existen en el tarifario interno de octubre pero no se ven en la web**: confirmar con el dueño antes de usarlas en anuncios.
+- **Tarifas de 1 h:** se publican [CONFIRMADO, 12-nov]. Hoy la web solo las muestra en Fotocabina: falta agregarlas en 360, Aero360, Punto Foto, Eco de Amor y packs.
+- **Web:** precios como **«desde $…»** [CONFIRMADO, 12-nov] (el «desde» es la tarifa más baja publicada, normalmente la de 1 h).
 - **Redes:** precios solo en historias.
 - **Anuncios:** valores «desde» claros; avisar «más traslado».
+- **Packs:** solo con Plataforma 360 (sin Aero360) [CONFIRMADO, 12-nov].
 
 ## Contradicciones ya resueltas (manda lo más nuevo)
 | Tema | Antes | Vigente |
 |---|---|---|
 | Abono | 30 % (también 20 % y 25 %) | **$25.000 fijo** (20-oct) |
 | IVA | «no confirmado» | Netos; empresas +19 % (21-oct) |
-| Impresiones Punto Foto | «108 hojas 4×6» | **Hasta 216 tiras de 5×15 cm** (21-oct) |
+| Impresiones Punto Foto | «108 hojas 4×6» | **Hasta 216 tiras de 5×15 cm** (21-oct; medida reconfirmada 12-nov) |
+| Hora adicional Eco de Amor | «a cotizar» | **$48.000** (1 h − 20 %, 12-nov) |
+| Aero360 en packs | «360 o Aero360» | **Solo Plataforma 360** en packs (12-nov) |
 | Hora adicional Punto Foto | «a cotizar» | **$70.000** sujeta a papel (21-oct) |
 | Pendrive | «sin tarifa» | **$15.000** (15-oct) |
 | Capacidad Aero360 | «10 o 12» | **Máx. 12** (21-oct) |

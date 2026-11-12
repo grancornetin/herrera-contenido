@@ -1,7 +1,7 @@
 ---
 tipo: servicio
 estado: activo (servicio nuevo, lanzado 22-oct-2026)
-actualizado: 2026-11-11
+actualizado: 2026-11-12
 fuentes: [02_CATALOGO/04, actualización web 21-oct, fichas públicas]
 ---
 # Punto Foto
@@ -13,7 +13,8 @@ Posa frente al rincón (individual o en grupo), la foto sale impresa y le llega 
 
 ## Incluye
 - Tótem de **altura y ángulo regulables** (cómodo también para niños).
-- **Hasta 216 tiras de 5×15 cm** con diseño personalizado (equivale a hasta 108 hojas, normalmente 2 tiras por hoja; en Chile 2×6 pulgadas se dice 5×15 cm). **No decir «108 hojas de 4×6».** No es un límite de invitados.
+- **Sí imprime** [CONFIRMADO, 12-nov]: **hasta 216 tiras impresas por evento** con diseño personalizado, más la versión digital de cada foto. Al llegar al límite, solo envía fotos digitales. **No decir «108 hojas de 4×6».** No es un límite de invitados.
+- **Tiras de 5×15 cm** (2×6 pulgadas; dos tiras por hoja de 10×15) [CONFIRMADO, 12-nov].
 - **Foto digital al instante** a cada invitado: QR (necesita señal), AirDrop (iPhone) o WhatsApp. Al final se entregan **todas las fotos al anfitrión**.
 - Encuadre abierto: el grupo puede ser **mayor a 6** si el espacio lo permite.
 - Para activaciones de marca deja ver el fondo y el logo; la tira se personaliza con logo.
@@ -40,8 +41,8 @@ Cumpleaños (**infantil: la mejor opción**), baby showers, bautizos, licenciatu
 - Reel semana 1: titular fijo en pregunta «¿Ya tienes tu rincón decorado?».
 
 ## Di / no digas
-- ✅ «rincón decorado» · «hasta 216 tiras de 5×15 cm» · «foto digital al instante» · «tú preparas el fondo; Punto Foto lo convierte en parte de cada toma».
-- ❌ «backdrop» · «ilimitado» · «solo digital» (sí imprime; ver [[preguntas-abiertas]]) · «incluimos fondo/decoración/cotillón» · «108 invitados».
+- ✅ «rincón decorado» · «fotos impresas al instante y también digitales» · «hasta 216 tiras de 5×15 cm» · «foto digital al instante» · «tú preparas el fondo; Punto Foto lo convierte en parte de cada toma».
+- ❌ «backdrop» · «ilimitado» · «solo digital» (sí imprime, confirmado 12-nov) · «incluimos fondo/decoración/cotillón» · «108 invitados».
 - Si la Fotocabina no está disponible: es **una alternativa**, no una sustitución equivalente.
 
 ## Ángulos de contenido

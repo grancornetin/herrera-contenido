@@ -1,35 +1,38 @@
 ---
 tipo: preguntas
-actualizado: 2026-11-11
+actualizado: 2026-11-12
 ---
 # Preguntas abiertas (para el dueño)
 
 Marcar con fecha cuando se resuelvan y pasar la respuesta a la página que toca.
 
-## Contradicciones o dudas que cambian el contenido
-1. **Punto Foto en el reel del lun 9:** ¿se dice que imprime o solo que es digital? (la pantalla muestra descarga; el catálogo dice que imprime hasta 216 tiras).
-2. **Tarifas de 1 hora** de 360, Aero360, Punto Foto, Eco de Amor y packs: existen en el tarifario interno de octubre pero las fichas web no las muestran (solo Fotocabina 1 h). ¿Se pueden usar en anuncios?
-3. **Tarifa de 4 horas en packs:** no hay; ¿se publica algo o se cotiza?
-4. **«Aero360» en packs:** en redes no se menciona; la web sí. ¿Se mantiene la diferencia?
-5. **Tono de los mensajes:** WhatsApp a clientes en «usted»; contenido público en tuteo. ¿Es la regla definitiva? (el tarifario antiguo traía mensajes en «tú»).
-6. **Umbrales de matrimonios grandes** (cuándo sumar un servicio): confirmar los números.
-7. **Eco de Amor en Todo Incluido:** ¿cuánto dura la activación? Hora adicional de Eco de Amor y de Punto Foto con otras condiciones.
+## Abiertas
+- **Repo privado:** el dueño pasa `herrera-contenido` a privado desde el computador (la app móvil no lo permite). Mientras tanto, cualquiera puede verlo.
+- **Metricool:** el conector de Claude quedó con otra cuenta de Metricool (la equivocada). Hay que desconectarlo y volver a conectarlo con la cuenta correcta.
+- **Web:** pasar a «desde», sumar tarifas de 1 h y sacar Aero360 de los packs. Se hace en otra sesión, con el repo de la web.
+- Menores, sin apuro: cancelación por parte de Herrera, seguros, vigencia de la cotización, medidas oficiales de los equipos.
 
-## Decisiones comerciales pendientes
-8. ¿La web publica precios completos o solo «desde»?
-9. **GlamCam/pasarela y Cápsula de Recuerdos:** fecha, nombre definitivo, precio final (redondeo) y si se pueden anunciar.
-10. **Diferenciación frente a la competencia** (asesoría consultiva): ¿se puede afirmar?
-11. Política escrita de **clima, cancelación de la empresa, daños y derechos de imagen**.
-12. Texto y aviso de uso del número de WhatsApp en la entrega digital.
-13. ¿Enfocar más en empresas, centros comerciales, sindicatos y activaciones? (cambiaría la prioridad de contenido).
+## Resueltas el 12-nov (ronda 2)
+A. Tira del Punto Foto: **5×15 cm**. · B. Hora adicional en packs: se suma la de cada servicio por horas. · C. Hora adicional de Eco de Amor: 1 h − 20 %, redondeado a miles → $48.000. · D. Eco de Amor en Todo Incluido: mismas horas del pack. · E. Escala de matrimonios: menos de 90 → 1 servicio; 90–120 → dúo o Pack Estrella; más de 120 → Todo Incluido. · F. Abono no reembolsable (compensa la fecha bloqueada); al reagendar se guarda; sin cupo, otro servicio. · G. Lluvia: bajo techo en el recinto o se reagenda con el abono. · H. Anuncios con «desde $…»: sí. · I. Creadoras: rostros como Soul en Higgsfield; voz solo Pía; solo como presentadoras y con etiqueta de IA. · J. Niños: tomas donde no se reconozca la cara. · L. Web: en otra sesión. · El reel de Karen y Franco triple eran pruebas a propósito.
 
-## Del contenido en sí
-14. ¿Se subieron los reels del vie 6 y sáb 7? ¿Cómo rindieron?
-15. **Creadora digital «Amelia» y voz «Pía»:** ¿se reactivan? Falta ID de la voz y elegir frames.
-16. Borrar los 2 duplicados del reel de Karen y Franco (27-oct).
-17. Permiso de uso de cada clip con personas reconocibles (la ficha dice «sí» pero conviene confirmar los de personas).
-18. Inventario exacto de equipos (cantidad real de Selfie Mirror, 360, etc.) y medidas oficiales.
-19. Razón social, RUT y régimen tributario: no confirmados (no usarlos en textos).
-
-## Sobre este cerebro
-20. ¿El repo será **privado**? Contiene precios, estrategia y notas internas ([INTERNO]); no debería ser público.
+## Resueltas el 12-nov (ronda 1)
+1. Punto Foto **sí imprime**: hasta 216 tiras por evento + versión digital; luego solo digital. → `servicios/punto-foto.md` (medida en A).
+2. Tarifas de 1 h: **se publican**. → `precios/tarifario-vigente.md`.
+3. Más de 3 h: 3 h + horas adicionales. → tarifario y packs (detalle de packs en B).
+4. Packs **solo con Plataforma 360**; Aero360 como servicio individual. → packs, reglas, aero360.
+5. Tú en redes, usted en WhatsApp. → `negocio/marca-y-voz.md`, reglas.
+6. Desde 90 invitados, segundo servicio. → `packs/guia-por-tipo-de-evento.md` (escala en E).
+7. Eco de Amor: «según las horas» (ver C y D).
+8. Web: precios «desde». → `contenido/web-y-paginas.md`.
+9. GlamCam y Cápsula: sin contenido por ahora. → `en-camino/`.
+10. Asesoría para elegir: sí, es la intención. → `negocio/empresa.md`.
+11. Políticas de lluvia, cancelación, daños e imagen. → `negocio/como-se-reserva-y-entrega.md` (dudas en F y G).
+12. Aviso de WhatsApp en la entrega: no existe; se redactará.
+13. Más peso a empresas: sí. → `negocio/empresa.md`.
+14. Semana 1: no se publicó nada. → `contenido/calendario-y-estado.md`.
+15. Creadoras digitales: activas (uso en I).
+16. Duplicados de Karen y Franco: el dueño no los ubica. Es el reel publicado 3 veces en Instagram el 27-oct (según Metricool). Revisar el perfil y borrar 2 si siguen ahí.
+17. Permisos: todos dieron permiso.
+18. Equipos: 1 de cada servicio, 2 Selfie Mirror. → `negocio/empresa.md`. Medidas oficiales: sin confirmar (no urgente).
+19. Razón social y RUT: no se usan.
+20. Repo: **Opción B** (cerebro privado + carpeta pública solo para piezas aprobadas). Falta que el dueño cambie la visibilidad y cree la carpeta pública.

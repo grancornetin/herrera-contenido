@@ -1,12 +1,12 @@
 ---
 tipo: servicio
 estado: activo
-actualizado: 2026-11-11
+actualizado: 2026-11-12
 fuentes: [02_CATALOGO/02, actualización web 21-oct, fichas públicas, CONTEXTO_CLAUDE_CODE]
 ---
 # Aero360
 
-**Qué es:** video 360 con **estructura aérea**: la cámara trabaja **desde arriba** y captura una toma amplia donde participa un grupo. Alternativa a la Plataforma 360 con igual tarifa. Es de los servicios que el dueño quiere **empujar** y el que prefiere por la libertad de movimiento [INTERNO].
+**Qué es:** video 360 con **estructura aérea**: la cámara trabaja **desde arriba** y captura una toma amplia donde participa un grupo. Alternativa a la Plataforma 360 con igual tarifa. Es de los servicios que el dueño quiere **empujar** y el que prefiere por la libertad de movimiento [INTERNO]. **Desde el 12-nov no forma parte de ningún pack: se impulsa como servicio individual** [CONFIRMADO].
 
 ## Qué vive el invitado
 Entra a la zona delimitada, se mueve libre y la cámara aérea lo registra con luces de neón, humo y burbujas. Máximo **12 personas** [CONFIRMADO]: no decir «caben todos».
@@ -31,7 +31,7 @@ Título web: «Tu celebración. Desde otra perspectiva.» · «La energía del g
 
 ## Di / no digas
 - ✅ «hasta 12 personas» · «desde arriba» · «sujeto al espacio y a las condiciones del lugar».
-- ❌ «todos entran en la toma» (ya hubo historias que lo decían: es impreciso) · confirmar la instalación sin conocer el recinto · inventar altura libre u otras medidas · mencionarla en la descripción de **packs en redes** (ahí solo «360»; la web sí dice «Plataforma 360 o Aero360»).
+- ❌ «todos entran en la toma» (ya hubo historias que lo decían: es impreciso) · confirmar la instalación sin conocer el recinto · inventar altura libre u otras medidas · ofrecerla dentro de un pack (los packs llevan solo Plataforma 360).
 
 ## Ángulos de contenido
 Vista desde arriba, «antes vs después» del montaje, POV interno + externo, áreas verdes, grupos grandes. Ver [[banco-de-ideas]]. Dato propio: «Te presentamos la nueva Aero360» (oct-2024) rindió 3,9× la mediana de la cuenta. Ya hay reel (4-nov).

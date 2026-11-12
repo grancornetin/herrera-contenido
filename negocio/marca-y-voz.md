@@ -1,6 +1,6 @@
 ---
 tipo: negocio
-actualizado: 2026-11-11
+actualizado: 2026-11-12
 fuentes: [kit de marca (21-sep), 07_MARCA_Y_MARKETING/01, actualización web 21-oct, CONTEXTO_CLAUDE_CODE]
 ---
 # Marca y voz
@@ -32,7 +32,7 @@ fuentes: [kit de marca (21-sep), 07_MARCA_Y_MARKETING/01, actualización web 21-
 - Pack Estrella: el eje es que la entretención está bien cubierta por experiencias complementarias; «un solo proveedor» es un beneficio secundario.
 - Variedad de servicios para que **cada invitado participe a su manera**: los extrovertidos en 360/Aero360 (abiertas), los más tímidos en Eco de Amor o la Fotocabina (más privadas).
 - Segmentar por contexto del evento y necesidad observable, no por estereotipos de género.
-- **Mensajes privados de WhatsApp a clientes tienen otro registro** (usted, plural de equipo): ver `reglas/mensajes-de-whatsapp.md`.
+- **Mensajes privados de WhatsApp a clientes tienen otro registro** (usted, plural de equipo). Regla definitiva [CONFIRMADO, 12-nov]: tú en público, usted en WhatsApp: ver `reglas/mensajes-de-whatsapp.md`.
 
 ## Llamado a la acción
 Único: **«Escríbenos por WhatsApp»**. Versión larga permitida: «Escríbenos por WhatsApp y cuéntanos tu tipo de evento, la fecha y la comuna». En la semana 1 se descartó sumar «Separa tu fecha» (decisión del dueño, 6-nov), aunque en la competencia rindió más.

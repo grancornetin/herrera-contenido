@@ -1,7 +1,7 @@
 ---
 tipo: servicio
 estado: activo
-actualizado: 2026-11-11
+actualizado: 2026-11-12
 fuentes: [02_CATALOGO/05, actualización web 21-oct, fichas públicas, calendario semana 1]
 ---
 # Selfie Mirror
@@ -15,7 +15,7 @@ Se para frente al espejo con el vinilo y el neón, y se saca selfies o se fotogr
 Espejo decorativo · **vinilo personalizado** (alcance a confirmar en la cotización) · letrero neón · **set Disco o Romance** según disponibilidad · instalación y retiro coordinados · permanencia durante el evento.
 
 ## Cómo se trabaja [INTERNO]
-Se instala y se retira; **queda sin operador**. El cliente es responsable de su cuidado mientras está en el recinto (indemnización por daño: sin definir). Hay **dos unidades** (referencia histórica; disponibilidad del set exacto se revisa en agenda). En eventos de empresa casi no se usa.
+Se instala y se retira; **queda sin operador**. El cliente es responsable de su cuidado mientras está en el recinto (cualquier daño causado por sus invitados, incluidos niños, es responsabilidad del cliente [CONFIRMADO, 12-nov]). Hay **dos unidades** [CONFIRMADO, 12-nov]: se pueden cubrir dos eventos con espejo a la vez (el set exacto se revisa en agenda). En eventos de empresa casi no se usa.
 
 ## Qué necesita el lugar
 3 × 3 m, ubicación visible. **Con viento no se usa** (puede caerse); **evitar pasto**.

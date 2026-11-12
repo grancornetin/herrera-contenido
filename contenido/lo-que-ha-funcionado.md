@@ -13,7 +13,7 @@ fuentes: [matriz de viralidad v2 (corte 5-nov), analíticas @herrera.produccione
 - Carruseles (7): mediana de alcance 42; el mejor, **«Reservar tu fecha»** (239).
 - Reels alcanzan ~3× más personas que carruseles. **Tiempo promedio de visualización: 5 a 8 segundos** (los primeros segundos deciden).
 - Mejores históricos (con anuncios de por medio): Aero360 «Te presentamos la nueva Aero360» (3,9×), Eco de Amor «Descubre» (4,5×), Plataforma 360 en Licantén (7,6×), cabina «Damos vida a tus celebraciones» (12×), Selfie Mirror «Espejito, espejito» (12×), «Vive la magia del amor en acción» (7,9×).
-- Lo que rindió mal: reels largos o con voz de invitados (106 s → 0,56×), «mientras ellos bailan, nuestro equipo cuida…» (0,09×), duplicados del reel de Karen y Franco (publicado 3 veces el 27-oct: **conviene borrar 2**), reels sin rótulo ni servicio claro en los primeros segundos.
+- Lo que rindió mal: reels largos o con voz de invitados (106 s → 0,56×), «mientras ellos bailan, nuestro equipo cuida…» (0,09×), el reel de Karen y Franco publicado 3 veces el 27-oct (eran **pruebas a propósito** para ver cuál rendía más, dice el dueño 12-nov; no son duplicados por error), reels sin rótulo ni servicio claro en los primeros segundos.
 - Stories: Metricool no devolvió datos.
 
 ## Patrón de la matriz de viralidad (basado en patrones, no predicción)

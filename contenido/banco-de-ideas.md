@@ -19,7 +19,7 @@ fuentes: [síntesis de los demás archivos del cerebro; ideas propuestas por Cla
 - Pregunta fija «¿Ya tienes tu rincón decorado?» (apuesta del lun 9).
 - Baby shower / cumpleaños infantil: tótem bajo y ángulo regulable.
 - Activación de marca: logo en la tira, frente al stand del cliente.
-- «Así se vive la captura» con la pantalla real; «216 tiras de 5×15».
+- «Así se vive la captura» con la pantalla real; «216 tiras impresas» (medida por confirmar).
 - Punto Foto vs Fotocabina en una pregunta por carrusel (ya hay uno: el 5-nov).
 
 **Plataforma 360 y Aero360**

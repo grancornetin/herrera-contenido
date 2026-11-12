@@ -40,5 +40,5 @@ Empieza por [[CLAUDE]]. Dudas abiertas: [[preguntas-abiertas]] · Procedencia: [
 
 ## Recursos
 - [[mapa-de-medios]] — catálogo de fotos y videos reales
-- [[creadora-digital]] — creadora y voz (en pausa)
+- [[creadora-digital]] — creadoras y voz (activas)
 - [[herramientas-y-skills]] — herramientas conectadas y skills útiles

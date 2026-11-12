@@ -5,7 +5,7 @@ Léelo completo antes de crear cualquier pieza. Es la única puerta de entrada.
 ## Al abrir una sesión nueva
 1. Cuéntale al dueño en el chat, en 5 líneas, dónde quedó el trabajo (mira `log.md`, `contenido/calendario-y-estado.md` y `preguntas-abiertas.md`) y qué sigue. Pregúntale qué quiere hacer hoy.
 2. Para crear contenido, **trabaja como «Director de Contenido»** (`.claude/agents/director-de-contenido.md`): reparte entre los especialistas y revisa cada pieza antes de entregarla.
-3. Este repo es **público**: nunca subas claves, tokens, datos personales de clientes ni material sin permiso. No hagas commit ni push sin que el dueño lo pida.
+3. Este repo pasa a **privado** (mientras siga público, cuidado): nunca subas claves, tokens, datos personales de clientes ni material sin permiso. No hagas commit ni push sin que el dueño lo pida.
 
 ## Qué trae listo este repo (`.claude/`)
 - **Skills** (`.claude/skills/`): 13 de Instagram (`ig-plan`, `ig-reel`, `ig-caption`, `ig-carousel`, `ig-story`, `ig-viral`, `ig-audit`, `ig-profile`, `ig-repurpose`, `ig-comment`, `ig-reply`, `ig-dm`, `ig-human`) y `stop-slop`. Funcionan en el PC y en Claude Code en la nube. Están pensadas para inglés: mandan las reglas de este cerebro (CTA único «Escríbenos por WhatsApp»; no «comenta una palabra»).
@@ -14,13 +14,13 @@ Léelo completo antes de crear cualquier pieza. Es la única puerta de entrada.
 - **Conectores de tu cuenta** (Higgsfield, Canva, Metricool, Drive): dependen de tu cuenta de Claude, no del repo.
 - Origen y licencias: `.claude/THIRD-PARTY.md`.
 
-## Enlaces públicos para Metricool
-El repo es público, así que cualquier archivo ya subido tiene enlace directo:
-`https://raw.githubusercontent.com/grancornetin/herrera-contenido/main/<ruta del archivo>`
-- Ejemplo (funciona hoy): `…/main/feed/2026-10-21_faq/01.jpg`.
-- Para sacarlos sin equivocarse: `python herramientas/enlace_publico.py piezas/semana-02/reel-1.mp4` (o `--carpeta feed/…`). Avisa si el archivo no está subido aún, pesa más de 100 MB o tiene espacios en el nombre.
-- **Primero commit y push, después el enlace** (GitHub tarda unos minutos en refrescar). Nombres de archivo en minúsculas con guiones, sin espacios ni tildes. Límite de GitHub: 100 MB por archivo.
-- Solo sube a `piezas/` material **aprobado por el dueño**: en un repo público lo ve cualquiera.
+## Enlaces públicos para Metricool (repo aparte: `herrera-piezas`)
+Este cerebro va a ser **privado**. Las piezas **aprobadas por el dueño** se suben al repo público `grancornetin/herrera-piezas` (carpeta `semana-NN/`), y de ahí sale el enlace directo para Metricool:
+`https://raw.githubusercontent.com/grancornetin/herrera-piezas/main/<ruta del archivo>`
+- Para sacarlos sin equivocarse, dentro de `herrera-piezas`: `python enlace_publico.py semana-02/reel-1.mp4` (o `--carpeta semana-02`). Avisa si el archivo no está subido, pesa más de 100 MB o tiene espacios en el nombre.
+- **Primero commit y push, después el enlace** (GitHub tarda unos minutos). Nombres en minúsculas con guiones, sin espacios ni tildes. Límite: 100 MB por archivo.
+- A `herrera-piezas` **solo** va material aprobado: nada de notas, precios internos ni borradores. Los borradores siguen en `piezas/` de este repo.
+- Los enlaces antiguos de `feed/` dejan de funcionar cuando este repo pase a privado (ya fueron usados).
 
 ## Qué es esto
 La memoria del negocio **Herrera Producciones** (arriendo de photobooths y experiencias para eventos, Región del Maule, Chile) escrita para una sola tarea: **crear contenido** (reels, stories, carruseles, posts, captions, anuncios, fichas y secciones web, guiones, mensajes de WhatsApp, productos y servicios).
@@ -50,20 +50,21 @@ Un agente que lea este cerebro debe saber: qué hacemos, qué servicios hay y cu
 - **Quiénes:** Herrera Producciones, base en Talca / San Clemente, trabajamos en el Maule (evaluamos fuera). Instagram `@herrera.producciones`. WhatsApp +56 9 5534 7032 · https://wa.me/message/MGETLZAA7XJ2A1.
 - **Qué vendemos:** no el arriendo de una máquina: **lo que vive el invitado y el recuerdo que queda**. Entretención y recuerdos para eventos. Prioridad: matrimonios (sobre todo +100 invitados); también empresas, escolares, cumpleaños, baby showers, bautizos, galas.
 - **Servicios activos (8):** Fotocabina · Punto Foto (nuevo, lanzado 22-oct-2026) · Plataforma 360 · Aero360 · Selfie Mirror · Eco de Amor · Arco hexagonal y Puertas de roble + arco (ceremonia) · extras (álbum, pendrive, fotos imantadas, horas adicionales).
-- **Packs (8):** Dúo Content, Dúo de Fotos, Dúo Fiesta, Dúo Fiesta Digital, Dúo Digital, Pack Estrella, Todo Incluido Fotocabina, Todo Incluido Punto Foto.
+- **Packs (8):** Dúo Content, Dúo de Fotos, Dúo Fiesta, Dúo Fiesta Digital, Dúo Digital, Pack Estrella, Todo Incluido Fotocabina, Todo Incluido Punto Foto. **Todos llevan Plataforma 360; la Aero360 se vende sola.**
+- **Foco 2026-27:** matrimonios + más peso a empresas, malls, sindicatos y activaciones. Tú en público, usted en WhatsApp.
 - **En camino (no anunciar como activos):** GlamCam / pasarela slow motion y Cápsula de Recuerdos (video guestbook). Ver `en-camino/`.
 - **Dinero:** precios netos en CLP; particulares sin IVA, empresas con boleta/factura +19 %; traslado siempre aparte; abono fijo $25.000 que se descuenta; saldo 48 h antes. Detalle en `precios/`.
 - **Qué necesita el lugar:** 3 × 3 m, energía cerca, acceso y estacionamiento, una persona que reciba, señal para los QR; exterior solo sin lluvia.
 - **Cómo llegan los clientes:** casi siempre por anuncios y WhatsApp. Objetivo de las redes: **primero reservas, luego marca**.
 - **CTA único:** «Escríbenos por WhatsApp».
-- **Material:** solo clips y fotos **reales** de eventos de Herrera. Nada generado, ningún testimonio inventado.
+- **Material:** clips y fotos **reales** de eventos de Herrera; las creadoras digitales solo como presentadoras. Ningún testimonio inventado.
 
 ## Reglas que nunca se rompen (versión corta; completas en `reglas/reglas-de-oro.md`)
-1. Solo material real; nada inventado ni generado; sin filtros que cambien el color.
-2. No decir «matrimonio real», ni mencionar la pasarela, ni «backdrop»; en packs decir solo «360».
+1. Solo material real de eventos; nada inventado; sin filtros que cambien el color. Única excepción: las creadoras digitales como presentadoras (nunca como clientas ni testimonio).
+2. No decir «matrimonio real», ni mencionar la pasarela, ni «backdrop»; los packs llevan solo Plataforma 360 (nunca Aero360).
 3. Capacidades exactas: Aero360 máx. 12 · Plataforma 360 hasta 4 adultos por video · Fotocabina hasta 6 por sesión · Punto Foto más de 6 si el espacio lo permite.
-4. «Ilimitadas» solo «durante el servicio contratado». Punto Foto no es ilimitado: hasta 216 tiras de 5×15 cm.
-5. Precios en el feed: no. Solo en historias (y nunca en destacadas).
+4. «Ilimitadas» solo «durante el servicio contratado». Punto Foto no es ilimitado: hasta 216 tiras impresas por evento, luego solo digital.
+5. Precios en el feed orgánico: no. En historias sí (nunca en destacadas) y en anuncios como «desde $…».
 6. Nada de urgencia o escasez falsas, rankings ni cifras de conversión inventadas.
 7. Nada se publica, se gasta ni se envía sin aprobación del dueño. Se trabaja **una semana a la vez, aprobando antes de producir**.
 
