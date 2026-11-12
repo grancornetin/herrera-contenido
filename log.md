@@ -37,3 +37,6 @@ El dueño aprobó ambos; el anuncio pasa a hablar de cualquier evento y con prec
 
 ## [2026-11-12] cambio | Borrador del anuncio Pack Estrella en Meta
 Se creó por Windsor, en pausa, la campaña, el conjunto y el anuncio de Pack Estrella con destino WhatsApp (9.000, 14–21 nov). Se anotaron los resultados de las campañas de octubre como referencia. Detalle en contenido/anuncios-meta.md.
+
+## [2026-11-12] cambio | Anuncio Pack Estrella: 29 días y solo mujeres
+El dueño pidió que los $50.000 duren ~30 días y que el público sea solo mujeres (dato comprobado por él). Se actualizó el conjunto en Meta: $49.000 del 14-nov al 13-dic (mínimo de Meta ~$1.670 diarios), mujeres 24–55.
