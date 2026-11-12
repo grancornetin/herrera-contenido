@@ -51,3 +51,11 @@ Voces de Pía generadas en ElevenLabs (eleven_v4, `[strong Chilean accent] [warm
 | 11 Indecisión | 11,7 s |
 | 12 La organizadora | 15,2 s |
 Falta: escuchar el acento, tarjetas/motion y montaje con clips reales, medición en Higgsfield (máx. 16 s por video medido), subir ganadores a Meta (en pausa). El guion 11 (11,7 s) es el más corto; el 7 (22 s) el más largo.
+
+### Decisiones del dueño sobre las voces (12-nov)
+- **Aprobadas:** G10 (Maule) y G11 (Indecisión).
+- **G7:** aprobada con la petición de acelerar el ritmo del arranque. Se regeneró con tags `[energetic] [fast pace]` (casi no cambió) y se aceleró el tramo inicial (0–5,9 s) ×1,14 sin cambiar el tono → 20,8 s.
+- **G12:** el contenido gusta, pero el arranque sonaba **sorprendido** («¿organizaste todo?!»). Quiere un tono **irónico/seco**, como «okey, organizaste todo… ¿pero ya resolviste esto?». Dos tomas nuevas: A (`[dry] [sarcastic]`, mismas palabras, 15,6 s) y B (`[deadpan] [raised eyebrow tone]`, con «Okey, organizaste todo. ¿Pero ya resolviste quién entretiene a tus invitados?», 17,3 s). El dueño elige.
+- **Descartadas:** G3 (decoración) y G5 (momento muerto).
+- Costo de esta ronda ≈ 1.130 créditos ElevenLabs.
+
