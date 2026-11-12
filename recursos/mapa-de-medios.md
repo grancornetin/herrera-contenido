@@ -12,7 +12,7 @@ Los archivos **no viven en este cerebro**: van en la carpeta `medios/` del repo 
 |---|---|
 | **Fotocabina** | M10 extracto de sesión (7,8 s) · M11 sesión de novios (4,2 s, 4K) · M12 sesión en cámara rápida (4,2 s) · M13 sesión grupal (11 s) · M14 solo tótem (6,8 s) · **M15 vista exterior con invitados (17,8 s)** · M16 vista interna (33 s) · M19 grupo (5,9 s) · M37 sesión de novios (11 s) · M39 sesión grupal extracto (9,7 s). *(M38 = duplicado de M12.)* |
 | **Punto Foto** | M17 y M18 GIF del tótem (4 s) · M28 POV explicativo (foto) · **M29 pantalla de captura (7,9 s)** · **M30 sesión grupal (11,9 s)** |
-| **Plataforma 360** | M20 foto (HEIC) · M23 novios (7,6 s) · **M24 POV desde afuera (10,3 s)** · M25 POV externo con staff (16,7 s) · M26 y M27 POV final (7,6 s, 120 fps) |
+| **Plataforma 360** | M20 foto (HEIC) · M23 novios (7,6 s) · **M24 POV desde afuera (10,3 s)** · M25 POV externo con staff (16,7 s) · M26 y M27 POV final (7,6 s, 120 fps) · **M40 invitada de vestido rosado con ramo sobre la plataforma, humo y luces (5,5 s; original 4K 60 fps en el PC; aporte del dueño 12-nov)**. Preferencias del dueño (12-nov): en M24 y M27 mostrar los tramos donde se ve de frente la invitada de top negro; los novios de M23 no son los más atractivos para anuncios |
 | **Aero360** | M01 antes vs después (5,8 s) · M02 POV interno + externo (9,8 s) · M03 video modelo (9,8 s) |
 | **Selfie Mirror** | M21 novios frente al espejo (4,5 s, 4K) · M31 detalles (foto) · M32 foto de uso · **M33 montaje 1 (14 s, 4K, archivo pesado)** · M34 montaje 2 (15 s) · M35 registro propio (6,6 s) · M36 uso (19 s) |
 | **Eco de Amor** | M08 primer plano del grabado (8,4 s) · M09 en acción (14 s) |

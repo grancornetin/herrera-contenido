@@ -28,3 +28,6 @@ El dueño rechazó los reels de la semana 1 (overlays, cuadros y motion graphics
 
 ## [2026-11-12] cambio | Anuncio Pack Estrella y publicación de reels
 El dueño aprobó el estilo limpio (con correcciones de encuadre y repetición: reel Fotocabina v2), subió el presupuesto de anuncios a $50.000, eligió un solo anuncio de Pack Estrella directo a WhatsApp y confirmó que publica los reels desde Instagram con aviso de Metricool para poner la música.
+
+## [2026-11-12] cambio | Anuncio Pack Estrella v2 y clip M40
+Correcciones del dueño: en los clips de 360 (M24 y M27) se usan los tramos donde se ve de frente a la invitada de top negro; el cierre con los novios (M23) se reemplazó por el clip nuevo M40 (invitada con ramo en la 360), que se agregó a medios.
