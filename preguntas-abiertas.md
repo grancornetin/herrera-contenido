@@ -8,12 +8,11 @@ Marcar con fecha cuando se resuelvan y pasar la respuesta a la página que toca.
 
 ## Abiertas
 - **Repo privado:** el dueño pasa `herrera-contenido` a privado desde el computador (la app móvil no lo permite). Mientras tanto, cualquiera puede verlo.
-- **Metricool:** el conector de Claude quedó con otra cuenta de Metricool (la equivocada). Hay que desconectarlo y volver a conectarlo con la cuenta correcta.
 - **Web:** pasar a «desde», sumar tarifas de 1 h y sacar Aero360 de los packs. Se hace en otra sesión, con el repo de la web.
 - Menores, sin apuro: cancelación por parte de Herrera, seguros, vigencia de la cotización, medidas oficiales de los equipos.
 
 ## Resueltas el 12-nov (ronda 2)
-A. Tira del Punto Foto: **5×15 cm**. · B. Hora adicional en packs: se suma la de cada servicio por horas. · C. Hora adicional de Eco de Amor: 1 h − 20 %, redondeado a miles → $48.000. · D. Eco de Amor en Todo Incluido: mismas horas del pack. · E. Escala de matrimonios: menos de 90 → 1 servicio; 90–120 → dúo o Pack Estrella; más de 120 → Todo Incluido. · F. Abono no reembolsable (compensa la fecha bloqueada); al reagendar se guarda; sin cupo, otro servicio. · G. Lluvia: bajo techo en el recinto o se reagenda con el abono. · H. Anuncios con «desde $…»: sí. · I. Creadoras: rostros como Soul en Higgsfield; voz solo Pía; solo como presentadoras y con etiqueta de IA. · J. Niños: tomas donde no se reconozca la cara. · L. Web: en otra sesión. · El reel de Karen y Franco triple eran pruebas a propósito.
+A. Tira del Punto Foto: **5×15 cm**. · B. Hora adicional en packs: se suma la de cada servicio por horas. · C. Hora adicional de Eco de Amor: 1 h − 20 %, redondeado a miles → $48.000. · D. Eco de Amor en Todo Incluido: mismas horas del pack. · E. Escala de matrimonios: menos de 90 → 1 servicio; 90–120 → dúo o Pack Estrella; más de 120 → Todo Incluido. · F. Abono no reembolsable (compensa la fecha bloqueada); al reagendar se guarda; sin cupo, otro servicio. · G. Lluvia: bajo techo en el recinto o se reagenda con el abono. · H. Anuncios con «desde $…»: sí. · I. Creadoras: rostros como Soul en Higgsfield; voz solo Pía; solo como presentadoras y con etiqueta de IA. · J. Niños: tomas donde no se reconozca la cara. · L. Web: en otra sesión. · El reel de Karen y Franco triple eran pruebas a propósito. · K. Metricool reconectado con la cuenta correcta.
 
 ## Resueltas el 12-nov (ronda 1)
 1. Punto Foto **sí imprime**: hasta 216 tiras por evento + versión digital; luego solo digital. → `servicios/punto-foto.md` (medida en A).

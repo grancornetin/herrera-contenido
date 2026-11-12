@@ -29,7 +29,8 @@ Los 4 reels se rehicieron con **motion design por capas** (la primera versión, 
 
 ## Estado al 12-nov-2026 [CONFIRMADO]
 - **No se publicó ninguno de los 4 reels de la semana 1** (dice el dueño). Siguen en `piezas/semana-01/borrador/`.
-- Metricool (conector de Claude): la marca conectada **no tiene ninguna red vinculada** y no hay nada programado. Hay que reconectar Instagram en Metricool.
+- Metricool reconectado el 12-nov (marca `herrera.producciones`, Instagram y Facebook). Confirma: **el último reel publicado es el Aero360 del 4-nov** y no hay nada programado.
+- Reels del 22-oct al 4-nov (9, orgánicos): vistas 31–664. Mejores: Punto Foto 22-oct (664 vistas, 8 s de visualización promedio), «Esto pasa cuando hay Fotocabina» 26-oct (443), Aero360 4-nov (227). **Entre 35 % y 70 % de la gente se va en los primeros 3 segundos** (66 % en el de Aero360): el gancho inicial es lo que más hay que mejorar. Varios usaban «Comenta una palabra» como CTA (ya no se usa).
 - El dueño decide **partir de cero** con contenido y anuncios. El esqueleto de abajo queda como referencia, no como plan.
 
 ## Esqueleto de las semanas siguientes (borrador, pendiente de aprobación)

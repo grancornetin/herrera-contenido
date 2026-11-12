@@ -19,3 +19,6 @@ Fuente: el dueño, en el chat. Punto Foto sí imprime (216 tiras, medida 5×10 v
 
 ## [2026-11-12] cambio | Segunda ronda de respuestas y repo de piezas
 Fuente: el dueño, en el chat. Tira del Punto Foto 5×15 cm; hora adicional en packs = suma de cada servicio por horas (se agregó la columna de 4 h calculada); hora adicional de Eco de Amor $48.000 (1 h − 20 %); Eco de Amor en Todo Incluido dura las horas del pack; escala de matrimonios (<90 / 90–120 / >120); abono no reembolsable y política de reagendar y lluvia; anuncios con «desde»; creadoras como Soul en Higgsfield, voz Pía, solo presentadoras y con etiqueta de IA; niños sin cara reconocible; el reel triple de Karen y Franco eran pruebas. Se creó el repo público `herrera-piezas` para las piezas aprobadas (enlaces de Metricool); este cerebro pasará a privado.
+
+## [2026-11-12] revisión | Metricool reconectado
+El dueño reconectó Metricool con la cuenta correcta. Se confirmó que no se publica nada desde el 4-nov y que no hay programaciones. Se anotó el rendimiento de los 9 reels del 22-oct al 4-nov en `contenido/calendario-y-estado.md`.
