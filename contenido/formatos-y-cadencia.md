@@ -23,6 +23,7 @@ Mejores horas según Metricool (pocos datos, tendencia): 10:00 en días hábiles
 - Texto: **ninguno o una sola línea corta, nativa de Instagram**, fija todo el video (ej.: «Esta es tu señal para poner una Fotocabina en tu matri»). La pone el dueño en Instagram/Edits.
 - Tomas que más usan los referentes: **la tira o foto impresa en la mano**, la impresora sacando la foto, el celular recibiendo la foto, el muro o álbum de fotos, grupos posando y riendo.
 - Portada: fotograma real limpio. El llamado «Escríbenos por WhatsApp» va en el caption.
+- **Publicación de reels [CONFIRMADO, 12-nov]:** se programan en Metricool **con aviso al celular**; a la hora indicada el dueño publica desde Instagram y agrega la música ahí. Los videos se entregan **sin audio**.
 - Formato 1080 × 1920. Los clips originales son verticales; los del celular en HDR se pasan a SDR **antes** de montar (si no, el render se atasca).
 
 **Carruseles**

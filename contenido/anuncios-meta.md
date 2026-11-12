@@ -6,8 +6,8 @@ fuentes: [07_MARCA_Y_MARKETING/03, CONTEXTO_CLAUDE_CODE §2 y §8]
 # Anuncios (Meta Ads)
 
 ## Hechos y presupuesto
-- Los clientes llegan **casi siempre por anuncios**. El dueño prefiere anuncios de **tráfico a la landing** (no de mensajes).
-- **Presupuesto máximo de anuncios: $30.000 CLP en total** [CONFIRMADO, 4-nov]. (Antes se mencionó un presupuesto inicial de $100.000; no asumir que sigue.)
+- Los clientes llegan **casi siempre por anuncios**. Antes el dueño prefería tráfico a la landing; **el 12-nov decidió probar mensajes directo a WhatsApp**.
+- **Presupuesto: $50.000 CLP** [CONFIRMADO, 12-nov; antes $30.000]. Primer uso: **un anuncio de Pack Estrella** con destino **directo a WhatsApp** (prueba; la web aún no está actualizada).
 - Antecedentes: un anuncio general de todos los servicios con ~$7.000 de gasto generó **1 conversación**; luego un anuncio de **Pack Estrella** con video de 13 s y clips reales de Fotocabina, 360 y Selfie Mirror, con objetivo de conversaciones por WhatsApp. Sin exportación de métricas validada: no atribuir causas.
 - Landing: catálogo de packs `https://cotizador-grancornetin.vercel.app/packs/` (14 páginas de servicio). Verificar que sigue vigente antes de apuntar un anuncio.
 - Si la cuenta publicitaria muestra campañas de otro negocio del dueño, **ignorarlas** en todo análisis de este proyecto (solo cuentan las de Herrera Producciones).

@@ -25,3 +25,6 @@ El dueño reconectó Metricool con la cuenta correcta. Se confirmó que no se pu
 
 ## [2026-11-12] cambio | Estilo de reels limpio
 El dueño rechazó los reels de la semana 1 (overlays, cuadros y motion graphics «se notan hechos por IA») y envió 7 reels de referentes. Nuevo estilo: clips reales con cortes al ritmo o toma continua, sin motion graphics, a lo más una línea de texto nativo de Instagram, CTA en el caption, portada limpia. Se cambiaron reglas de oro (17 y 20), formatos y cadencia, marca y voz, plantilla de reel, lo que ha funcionado (análisis de los referentes) y calendario. Borrador de prueba: reel de Fotocabina limpio.
+
+## [2026-11-12] cambio | Anuncio Pack Estrella y publicación de reels
+El dueño aprobó el estilo limpio (con correcciones de encuadre y repetición: reel Fotocabina v2), subió el presupuesto de anuncios a $50.000, eligió un solo anuncio de Pack Estrella directo a WhatsApp y confirmó que publica los reels desde Instagram con aviso de Metricool para poner la música.

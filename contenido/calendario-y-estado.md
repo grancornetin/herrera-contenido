@@ -32,7 +32,8 @@ Los 4 reels se rehicieron con **motion design por capas** (la primera versión, 
 - Metricool reconectado el 12-nov (marca `herrera.producciones`, Instagram y Facebook). Confirma: **el último reel publicado es el Aero360 del 4-nov** y no hay nada programado.
 - Reels del 22-oct al 4-nov (9, orgánicos): vistas 31–664. Mejores: Punto Foto 22-oct (664 vistas, 8 s de visualización promedio), «Esto pasa cuando hay Fotocabina» 26-oct (443), Aero360 4-nov (227). **Entre 35 % y 70 % de la gente se va en los primeros 3 segundos** (66 % en el de Aero360): el gancho inicial es lo que más hay que mejorar. Varios usaban «Comenta una palabra» como CTA (ya no se usa).
 - El dueño decide **partir de cero** con contenido y anuncios. El esqueleto de abajo queda como referencia, no como plan.
-- **Los 4 reels de la semana 1 quedan descartados** (12-nov): se notan hechos por IA (textos, cuadros, animaciones). Se rehacen en estilo limpio. Primer borrador: reel de Fotocabina limpio (12 s, 17 tomas de 0,6 s, sin texto, sin audio), enviado al dueño por el chat; no se sube al repo hasta que lo apruebe (el repo sigue público).
+- **Los 4 reels de la semana 1 quedan descartados** (12-nov): se notan hechos por IA (textos, cuadros, animaciones). Se rehacen en estilo limpio. Primer borrador: reel de Fotocabina limpio (12 s, 17 tomas de 0,6 s, sin texto, sin audio), enviado al dueño por el chat; no se sube al repo hasta que lo apruebe (el repo sigue público). El dueño aprobó el estilo pero pidió corregir tomas mal encuadradas y repetidas → **v2** (8 s, 10 tomas distintas de 0,8 s).
+- **Anuncio de la semana (12-nov):** Pack Estrella, directo a WhatsApp, presupuesto $50.000. Borrador de video v1 (10,4 s, 12 tomas reales de Fotocabina, 360 y Selfie Mirror, sin texto). Se descartó el anuncio de empresas por ahora.
 
 ## Esqueleto de las semanas siguientes (borrador, pendiente de aprobación)
 - **Semana 1 (5–8 nov):** «Elige tu experiencia».
