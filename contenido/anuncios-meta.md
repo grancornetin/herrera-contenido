@@ -17,8 +17,10 @@ fuentes: [07_MARCA_Y_MARKETING/03, CONTEXTO_CLAUDE_CODE §2 y §8]
 ## Anuncio aprobado · Pack Estrella (12-nov) [CONFIRMADO]
 - Video: `herrera-piezas/semana-02/anuncio-pack-estrella.mp4` (10,6 s, estilo limpio, sin texto).
 - Para **cualquier evento** (no solo matrimonios) y con el precio **desde 1 hora** (decisión del dueño).
-- Texto: «Que la fiesta siga. Que el recuerdo quede. / Pack Estrella: Fotocabina, Plataforma 360 y Selfie Mirror en tu evento. Desde $240.000 por 1 hora, más traslado. / Escríbenos por WhatsApp, cuéntanos qué celebras y te ayudamos a elegir.» · Título: «Pack Estrella para tu evento».
-- Destino WhatsApp · $50.000 (sugerido $7.000 diarios por 7 días).
+- Título: «Pack Estrella para tu evento».
+- **Borrador creado en Meta vía Windsor (12-nov), todo en PAUSA hasta que el dueño active:** campaña «HP | Pack Estrella | WhatsApp | Nov 2026» (id 120248484295110146, objetivo Interacción) · conjunto «Maule 24-55 | Pack Estrella | 14 al 21 nov» (id 120248484297960146; presupuesto total $49.000 del 14 al 21-nov; conversaciones en WhatsApp; Talca 40 km + Curicó 20 km + Linares 20 km; 24–55 años; sin intereses, público amplio) · anuncio «Pack Estrella | Video limpio v2 | Desde 1 h» (id 120248485975740146; video 1725820612434100; botón WhatsApp).
+- **Oferta final:** Pack Estrella desde $240.000 por 1 hora + traslado, y reservar la fecha con abono de $25.000 que se descuenta (dato real, sin descuentos inventados). Texto final: «Que la fiesta siga. Que el recuerdo quede. / Pack Estrella: Fotocabina con fotos impresas para llevarse, Plataforma 360 con videos para compartir y Selfie Mirror durante todo el evento. / Desde $240.000 por 1 hora, más traslado. Reservas tu fecha con un abono de $25.000 que se descuenta del total. / Escríbenos por WhatsApp, cuéntanos qué celebras y te ayudamos a elegir.» · Descripción: «Talca y Región del Maule».
+- **Referencia:** la campaña «HP | Pack Estrella | WhatsApp | Oct 2026» gastó $29.866 y logró 11 conversaciones (~$2.700 c/u); la de todos los servicios, $7.876 y 1 conversación; la de tráfico a la landing, $4.234 y 170 clics sin conversaciones medidas (Windsor, últimos 3 meses).
 
 ## Cómo preparar un anuncio (sin publicar)
 Copy, variantes, audiencia candidata, recursos reales y un resumen revisable. **No publicar, no subir gasto y no lanzar campañas nuevas sin autorización expresa.** No prometer «mensajes a montones» ni un anuncio ganador.

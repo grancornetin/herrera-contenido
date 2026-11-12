@@ -34,3 +34,6 @@ Correcciones del dueño: en los clips de 360 (M24 y M27) se usan los tramos dond
 
 ## [2026-11-12] cambio | Aprobados anuncio Pack Estrella y reel Fotocabina
 El dueño aprobó ambos; el anuncio pasa a hablar de cualquier evento y con precio desde 1 hora (40.000). Subidos a herrera-piezas/semana-02.
+
+## [2026-11-12] cambio | Borrador del anuncio Pack Estrella en Meta
+Se creó por Windsor, en pausa, la campaña, el conjunto y el anuncio de Pack Estrella con destino WhatsApp (9.000, 14–21 nov). Se anotaron los resultados de las campañas de octubre como referencia. Detalle en contenido/anuncios-meta.md.
