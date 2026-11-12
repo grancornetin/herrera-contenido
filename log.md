@@ -43,3 +43,6 @@ El dueño pidió que los $50.000 duren ~30 días y que el público sea solo muje
 
 ## [2026-11-12] cambio | Anuncios con voz, música y texto: prueba de 5 enfoques
 El dueño corrigió: los anuncios llevan texto, música y voz (Pía). Se conectó ElevenLabs, se crearon 3 de 5 enfoques y se mandaron al predictor de Higgsfield. Nuevo entorno de nube «Herrera Producciones contenido» para descargar de ElevenLabs/Higgsfield. Detalle en contenido/anuncios-meta.md.
+
+## [2026-11-12] cambio | Ganchos nuevos, acento de Pía y estilo lowkey
+El dueño eligió E1 y E4, pidió 4 ganchos nuevos (A–D, D con reseñas reales), corregir el acento argentino de Pía en LL/Y y probar estilo de luz lowkey. Detalle en contenido/anuncios-meta.md.

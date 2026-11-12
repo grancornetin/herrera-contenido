@@ -51,3 +51,9 @@ El dueño pidió que el anuncio lleve **texto en pantalla, música y voz en off*
 | 5 | Asesoría | «¿No sabes qué contratar para tu evento? Te ayudamos.» | ¿No sabes qué contratar? | Hecho (15,9 s) |
 Predictor Higgsfield (0–100): E2 → total 43, gancho 28, viral 42, retención 95. Resto en proceso.
 Plan: medir con el predictor de Higgsfield (máx. 16 s) y subir los 2–3 mejores como anuncios separados dentro del mismo conjunto en Meta, para que el gasto real decida.
+
+### Correcciones del dueño (12-nov, ronda 2)
+- Favoritos: **E1 (aburrimiento)** y **E4 (así viven tus invitados)**, pero el gancho falta pulirlo.
+- **Voz:** en E4 Pía suena **argentina en las palabras con LL o Y** («llevan», «ayudamos», «Estrella»). Hay que corregir el acento antes de volver a generar. ElevenLabs desactivó el plan gratis («actividad inusual»): se necesita plan pagado.
+- **Ganchos nuevos a probar:** A «Nunca organices un evento sin considerar esto» (pensar en los invitados y el recuerdo) · B «Si estás organizando un evento, esto es para ti» (servicios y cómo se viven, precio al final) · C «Así es como logras un evento inolvidable» (el Pack Estrella lleva la fiesta a otro nivel) · D **reseñas reales** de clientes como gancho visual y hablado (sin fechas; el dueño las envía).
+- **Estilo de luz: lowkey** (guía de 24 esquemas de luz de Higgsfield, n.º 20: interior oscuro y con clima, una luz suave lateral, la sala en sombra pero legible, la cara siempre visible). Hecho como **corrección de color** sobre los clips reales (oscurecer, contraste, viñeta), sin regenerar con IA.
