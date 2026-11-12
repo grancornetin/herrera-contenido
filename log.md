@@ -31,3 +31,6 @@ El dueño aprobó el estilo limpio (con correcciones de encuadre y repetición: 
 
 ## [2026-11-12] cambio | Anuncio Pack Estrella v2 y clip M40
 Correcciones del dueño: en los clips de 360 (M24 y M27) se usan los tramos donde se ve de frente a la invitada de top negro; el cierre con los novios (M23) se reemplazó por el clip nuevo M40 (invitada con ramo en la 360), que se agregó a medios.
+
+## [2026-11-12] cambio | Aprobados anuncio Pack Estrella y reel Fotocabina
+El dueño aprobó ambos; el anuncio pasa a hablar de cualquier evento y con precio desde 1 hora (40.000). Subidos a herrera-piezas/semana-02.

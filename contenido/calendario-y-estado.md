@@ -34,6 +34,7 @@ Los 4 reels se rehicieron con **motion design por capas** (la primera versión, 
 - El dueño decide **partir de cero** con contenido y anuncios. El esqueleto de abajo queda como referencia, no como plan.
 - **Los 4 reels de la semana 1 quedan descartados** (12-nov): se notan hechos por IA (textos, cuadros, animaciones). Se rehacen en estilo limpio. Primer borrador: reel de Fotocabina limpio (12 s, 17 tomas de 0,6 s, sin texto, sin audio), enviado al dueño por el chat; no se sube al repo hasta que lo apruebe (el repo sigue público). El dueño aprobó el estilo pero pidió corregir tomas mal encuadradas y repetidas → **v2** (8 s, 10 tomas distintas de 0,8 s).
 - **Anuncio de la semana (12-nov):** Pack Estrella, directo a WhatsApp, presupuesto $50.000. Borrador de video v1 (10,4 s, 12 tomas reales de Fotocabina, 360 y Selfie Mirror, sin texto). Se descartó el anuncio de empresas por ahora.
+- **Aprobados el 12-nov y subidos a `herrera-piezas/semana-02/`:** anuncio Pack Estrella v2 (cierre con M40) y reel Fotocabina v2 (con portada). El reel va el **vie 13 a las 18:30**.
 
 ## Esqueleto de las semanas siguientes (borrador, pendiente de aprobación)
 - **Semana 1 (5–8 nov):** «Elige tu experiencia».

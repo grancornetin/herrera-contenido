@@ -14,6 +14,12 @@ fuentes: [07_MARCA_Y_MARKETING/03, CONTEXTO_CLAUDE_CODE §2 y §8]
 
 - **Precio en anuncios:** sí, como «desde $…» y «más traslado» [CONFIRMADO, 12-nov].
 
+## Anuncio aprobado · Pack Estrella (12-nov) [CONFIRMADO]
+- Video: `herrera-piezas/semana-02/anuncio-pack-estrella.mp4` (10,6 s, estilo limpio, sin texto).
+- Para **cualquier evento** (no solo matrimonios) y con el precio **desde 1 hora** (decisión del dueño).
+- Texto: «Que la fiesta siga. Que el recuerdo quede. / Pack Estrella: Fotocabina, Plataforma 360 y Selfie Mirror en tu evento. Desde $240.000 por 1 hora, más traslado. / Escríbenos por WhatsApp, cuéntanos qué celebras y te ayudamos a elegir.» · Título: «Pack Estrella para tu evento».
+- Destino WhatsApp · $50.000 (sugerido $7.000 diarios por 7 días).
+
 ## Cómo preparar un anuncio (sin publicar)
 Copy, variantes, audiencia candidata, recursos reales y un resumen revisable. **No publicar, no subir gasto y no lanzar campañas nuevas sin autorización expresa.** No prometer «mensajes a montones» ni un anuncio ganador.
 - Audiencia de prueba (hipótesis): mujeres 20–55, Maule, intereses de matrimonio/eventos. No mezclar intereses sin hipótesis; verificar la configuración actual antes de recomendar pasos de interfaz.
