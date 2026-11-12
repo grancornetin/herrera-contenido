@@ -11,3 +11,8 @@
 
 ## Python
 Las skills `ig-*` y `enlace_publico.py` necesitan Python 3 (solo biblioteca estándar).
+
+## Anuncios (agregado el 12-nov)
+- `anuncios/armar_anuncio.py`: monta un anuncio vertical (clips reales + voz + música + textos) con ffmpeg y Pillow.
+- `anuncios/ejemplo_tanda_anuncios.py`: ejemplo con 6 anuncios armados (guiones de la ronda 2, ya reemplazados). Usar como plantilla.
+- Antes de usarlos: abrir la sesión en el entorno de nube «Herrera Producciones contenido» y leer `recursos/produccion-de-anuncios.md`.

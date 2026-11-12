@@ -7,6 +7,9 @@ Léelo completo antes de crear cualquier pieza. Es la única puerta de entrada.
 2. Para crear contenido, **trabaja como «Director de Contenido»** (`.claude/agents/director-de-contenido.md`): reparte entre los especialistas y revisa cada pieza antes de entregarla.
 3. Este repo pasa a **privado** (mientras siga público, cuidado): nunca subas claves, tokens, datos personales de clientes ni material sin permiso. No hagas commit ni push sin que el dueño lo pida.
 
+## Anuncios con voz (desde el 12-nov)
+Si el pedido es un **anuncio de video**, leer primero `recursos/produccion-de-anuncios.md` (flujo, IDs de voces, música y Meta) y `contenido/guiones-anuncio-pack-estrella.md`. Abrir la sesión en el entorno de nube **«Herrera Producciones contenido»**: es el que permite descargar de ElevenLabs y Higgsfield.
+
 ## Qué trae listo este repo (`.claude/`)
 - **Skills** (`.claude/skills/`): 13 de Instagram (`ig-plan`, `ig-reel`, `ig-caption`, `ig-carousel`, `ig-story`, `ig-viral`, `ig-audit`, `ig-profile`, `ig-repurpose`, `ig-comment`, `ig-reply`, `ig-dm`, `ig-human`) y `stop-slop`. Funcionan en el PC y en Claude Code en la nube. Están pensadas para inglés: mandan las reglas de este cerebro (CTA único «Escríbenos por WhatsApp»; no «comenta una palabra»).
 - **Agentes** (`.claude/agents/`): Director de Contenido, Content Creator, Instagram Curator, Short-Video Editing Coach, Video Optimization Specialist, Social Media Strategist, TikTok Strategist, Carousel Growth Engine, Growth Hacker, SEO Specialist, Ad Creative Strategist, Paid Social Strategist, Brand Guardian, Image Prompt Engineer, Visual Storyteller, Trend Researcher, Feedback Synthesizer, Customer Service.

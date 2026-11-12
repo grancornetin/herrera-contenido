@@ -37,6 +37,7 @@ Empieza por [[CLAUDE]]. Dudas abiertas: [[preguntas-abiertas]] · Procedencia: [
 - [[plantillas-de-piezas]] — cómo se arma cada pieza
 - [[anuncios-meta]] — publicidad
 - [[guiones-anuncio-pack-estrella]] — guiones aprobados del anuncio
+- [[produccion-de-anuncios]] — cómo se producen los anuncios, IDs de voces/música/Meta y qué sigue
 - [[web-y-paginas]] — fichas web y títulos aprobados
 
 ## Recursos

@@ -6,7 +6,13 @@ actualizado: 2026-11-12
 
 Marcar con fecha cuando se resuelvan y pasar la respuesta a la página que toca.
 
-## Abiertas
+## Abiertas (al cierre del 12-nov)
+- **G12 del anuncio:** ¿toma A (seca, mismas palabras) o B (con «Okey, organizaste todo… ¿pero ya resolviste…?»)? Bloquea el montaje.
+- **Ganchos de la guía de ARIA:** ¿cuáles de A–E se desarrollan como guion? (recomendado: B, C y E para el Pack Estrella; D para Aero360).
+- **Prueba de luz con IA** en el gancho (35 créditos de Higgsfield): sin respuesta.
+- **Reel Fotocabina v2** (aprobado, en `herrera-piezas/semana-02/`): ¿se programa en Metricool para el viernes 13 a las 18:30? Sin respuesta.
+- **Anuncio en Meta:** sigue en pausa con el video antiguo; hay que reemplazarlo por los nuevos antes de activarlo (el dueño lo activa).
+- **G7:** confirmar si el arranque acelerado (×1,14) quedó bien.
 - **Repo privado:** el dueño pasa `herrera-contenido` a privado desde el computador (la app móvil no lo permite). Mientras tanto, cualquiera puede verlo.
 - **Web:** pasar a «desde», sumar tarifas de 1 h y sacar Aero360 de los packs. Se hace en otra sesión, con el repo de la web.
 - Menores, sin apuro: cancelación por parte de Herrera, seguros, vigencia de la cotización, medidas oficiales de los equipos.

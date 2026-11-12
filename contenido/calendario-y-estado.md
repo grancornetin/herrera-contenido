@@ -36,6 +36,12 @@ Los 4 reels se rehicieron con **motion design por capas** (la primera versión, 
 - **Anuncio de la semana (12-nov):** Pack Estrella, directo a WhatsApp, presupuesto $50.000. Borrador de video v1 (10,4 s, 12 tomas reales de Fotocabina, 360 y Selfie Mirror, sin texto). Se descartó el anuncio de empresas por ahora.
 - **Aprobados el 12-nov y subidos a `herrera-piezas/semana-02/`:** anuncio Pack Estrella v2 (cierre con M40) y reel Fotocabina v2 (con portada). El reel va el **vie 13 a las 18:30**.
 
+## Estado al cierre del 12-nov (para retomar mañana)
+- **Aprobado y subido a `herrera-piezas/semana-02/`:** reel Fotocabina v2 (limpio) y el anuncio v2 (sin voz; ya reemplazado en la estrategia por la serie con voz). **Nada está programado ni publicado** en Instagram/Metricool.
+- **Plan de la semana 2 (propuesta, sin aprobar del todo):** reels limpios en estilo de los referentes (Fotocabina vie 13 ✔, 360 lun 16, Aero360 mié 18, Punto Foto jue 19) + 2 carruseles (empresas sáb 14, matrimonios mar 17) + stories 10:00. Ver el calendario completo propuesto en el historial; se rehace al retomar.
+- **Anuncio Pack Estrella:** 4 guiones con voz definitiva casi listos (G7, G10, G11, G12). Todo en `recursos/produccion-de-anuncios.md` y `contenido/guiones-anuncio-pack-estrella.md`.
+- Los **reels de la semana 1 siguen descartados** (estilo de motion graphics rechazado).
+
 ## Esqueleto de las semanas siguientes (borrador, pendiente de aprobación)
 - **Semana 1 (5–8 nov):** «Elige tu experiencia».
 - **Semana 2 (9–15 nov):** fin de año y empresas.

@@ -49,3 +49,6 @@ El dueño eligió E1 y E4, pidió 4 ganchos nuevos (A–D, D con reseñas reales
 
 ## [2026-11-12] creación | Guiones aprobados del anuncio Pack Estrella
 El dueño aprobó 6 guiones (3, 5, 7, 10, 11, 12), pausó el de reseñas y descartó 5. Las reseñas tienen 5 estrellas (confirmado). Ver contenido/guiones-anuncio-pack-estrella.md.
+
+## [2026-11-12] cambio | Cierre del día y traspaso a la próxima sesión
+Se guardó todo lo disponible: guiones y decisiones, IDs de voces, música y Meta, scripts de montaje (herramientas/anuncios/), guía de ganchos de ARIA y resumen de la guía de luz. Nueva página recursos/produccion-de-anuncios.md. El entorno de nube «Herrera Producciones contenido» debe usarse para retomar.
