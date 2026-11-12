@@ -46,3 +46,6 @@ El dueño corrigió: los anuncios llevan texto, música y voz (Pía). Se conect�
 
 ## [2026-11-12] cambio | Ganchos nuevos, acento de Pía y estilo lowkey
 El dueño eligió E1 y E4, pidió 4 ganchos nuevos (A–D, D con reseñas reales), corregir el acento argentino de Pía en LL/Y y probar estilo de luz lowkey. Detalle en contenido/anuncios-meta.md.
+
+## [2026-11-12] creación | Guiones aprobados del anuncio Pack Estrella
+El dueño aprobó 6 guiones (3, 5, 7, 10, 11, 12), pausó el de reseñas y descartó 5. Las reseñas tienen 5 estrellas (confirmado). Ver contenido/guiones-anuncio-pack-estrella.md.

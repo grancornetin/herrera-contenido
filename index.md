@@ -36,6 +36,7 @@ Empieza por [[CLAUDE]]. Dudas abiertas: [[preguntas-abiertas]] · Procedencia: [
 - [[banco-de-ideas]] — ideas por servicio y por evento
 - [[plantillas-de-piezas]] — cómo se arma cada pieza
 - [[anuncios-meta]] — publicidad
+- [[guiones-anuncio-pack-estrella]] — guiones aprobados del anuncio
 - [[web-y-paginas]] — fichas web y títulos aprobados
 
 ## Recursos
