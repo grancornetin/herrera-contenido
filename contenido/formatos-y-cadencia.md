@@ -1,6 +1,6 @@
 ---
 tipo: contenido
-actualizado: 2026-11-11
+actualizado: 2026-11-12
 fuentes: [CONTEXTO_CLAUDE_CODE §3, §7, §8, §9; calendario semana 1]
 ---
 # Formatos y cadencia
@@ -19,9 +19,10 @@ Mejores horas según Metricool (pocos datos, tendencia): 10:00 en días hábiles
 ## Qué lleva cada formato
 **Reels** (los que más alcance dan: ~3× más personas que los carruseles en los datos propios)
 - Clips reales; música libre de derechos estilo fiesta 70–90; por ahora **sin voz**.
-- **Portada propia:** fotograma real, degradado oscuro, cartel dorado, título corto en Sora.
-- Patrón que ha respaldado la matriz: servicio a la vista desde el segundo 0, **rótulo fijo en los primeros 2 s**, 22 s o menos, solo música, objeto terminado en primer plano. Ver [[lo-que-ha-funcionado]].
-- Cierre: texto solo «Escríbenos por WhatsApp» en botón dorado.
+- **Estilo limpio (como los referentes) [CONFIRMADO, 12-nov]:** sin motion graphics, sin cuadros, sin botón final. Dos formatos: **(a) cortes rápidos al ritmo** (0,5–0,8 s por toma, 10–20 s) o **(b) una toma continua** (por ejemplo, un POV de la 360). Personas reales en acción desde el primer cuadro.
+- Texto: **ninguno o una sola línea corta, nativa de Instagram**, fija todo el video (ej.: «Esta es tu señal para poner una Fotocabina en tu matri»). La pone el dueño en Instagram/Edits.
+- Tomas que más usan los referentes: **la tira o foto impresa en la mano**, la impresora sacando la foto, el celular recibiendo la foto, el muro o álbum de fotos, grupos posando y riendo.
+- Portada: fotograma real limpio. El llamado «Escríbenos por WhatsApp» va en el caption.
 - Formato 1080 × 1920. Los clips originales son verticales; los del celular en HDR se pasan a SDR **antes** de montar (si no, el render se atasca).
 
 **Carruseles**
@@ -30,7 +31,7 @@ Mejores horas según Metricool (pocos datos, tendencia): 10:00 en días hábiles
 - El mejor carrusel propio medido: **«Reservar tu fecha»** (alcance 239; los informativos varios quedaron entre 23 y 49).
 
 **Stories**
-- Se hacen con motion graphics (en código) para subir a las 10:00.
+- Simples y con material real; texto nativo de Instagram, sin animaciones recargadas. Para subir a las 10:00.
 - **No** incluir la story de precios en destacadas (los precios cambian).
 - Con link o stickers **no se pueden programar** en Metricool: usar texto + «Escríbenos por WhatsApp».
 

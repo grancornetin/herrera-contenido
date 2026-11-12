@@ -1,22 +1,23 @@
 ---
 tipo: contenido
-actualizado: 2026-11-11
+actualizado: 2026-11-12
 fuentes: [calendario semana 1, matriz de viralidad, reglas del dueño, skills ig-*]
 ---
 # Plantillas de piezas
 
 Todas se entregan **listas para copiar** y con una línea final que dice qué supuestos se hicieron. Rellenar solo con datos de las fichas.
 
-## Reel (basado en el patrón de la matriz; ≤ 22 s)
+## Reel (estilo limpio de los referentes; 10–20 s)
 ```
 SERVICIO: …            OBJETIVO: reserva | marca
 CLIPS REALES: (ids de recursos/mapa-de-medios.md)
-0,0–0,4 s  Servicio a la vista + RÓTULO FIJO (≤ 6 palabras, no hablado)
-0,4–… s    Cortes de ~1 s (acción real, caras reales, humo/luz según servicio)
-Cierre     Objeto terminado en primer plano (tira / foto / video en pantalla)
-Texto final «Escríbenos por WhatsApp» (botón dorado)
-Música     libre de derechos, fiesta 70–90, sin voz
-PORTADA    fotograma real + degradado oscuro + cartel dorado + título corto (Sora)
+FORMATO    cortes rápidos al ritmo (0,5–0,8 s) | una toma continua
+0,0 s      Personas reales en acción con el servicio, sin intro
+Tomas      grupos posando, risas, la tira/foto en la mano, impresora, celular recibiendo
+Texto      ninguno o 1 línea nativa de Instagram (la pone el dueño)
+SIN        motion graphics, cuadros, rótulos animados, botón final
+Música     la elige el dueño en Instagram (o libre de derechos si se programa)
+PORTADA    fotograma real limpio
 CAPTION    1.ª línea clara (sobrevive al «… más») · 2–3 líneas con el beneficio ·
            1 sola petición (escribir por WhatsApp) · 3 hashtags
 CHEQUEO    ¿capacidades correctas? ¿sin «backdrop»/pasarela/matrimonio real? ¿sin precio?

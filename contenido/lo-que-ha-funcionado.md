@@ -1,11 +1,21 @@
 ---
 tipo: contenido
-actualizado: 2026-11-11
+actualizado: 2026-11-12
 fuentes: [matriz de viralidad v2 (corte 5-nov), analíticas @herrera.producciones (4-nov), calendario semana 1 v3, Metricool sep–nov]
 ---
 # Lo que ha funcionado (y lo que no)
 
 **Aviso de honestidad:** son **pistas débiles**, no pruebas. Muestra chica (19 piezas analizadas a fondo de 110 reels, de 5 cuentas), sesgada hacia las mejores y las peores; no hay mitad neutra. Lo que sigue describe **qué coincidió con buen rendimiento**, no qué lo causó. Y las vistas altas de la cuenta propia vienen en gran parte de **anuncios pagados** (dato del dueño): no se pueden separar de lo orgánico.
+
+## Referentes enviados por el dueño (12-nov, 7 reels)
+Todos son **limpios**: video de celular, personas reales, casi sin texto, sin motion graphics ni botones.
+- **Cortes rápidos al ritmo:** 4 de 7 (una toma cada 0,5–0,8 s; 9 a 21 s).
+- **Una toma continua:** 2 de 7 (invitadas bailando con burbujas, 51 s; mano con tiras impresas, 6 s).
+- **Persona a cámara con micrófono** y subtítulos palabra por palabra, intercalada con tomas del servicio: 1 de 7 (formato posible para las creadoras digitales; ojo, ese reel decía «pocos cupos»: urgencia que aquí no se usa).
+- **Texto:** 4 sin texto o casi; 3 con **una sola línea fija, chica, en letra nativa de Instagram** («Esta es tu señal para poner una cabina de fotos en tu matri», «Así es como haces que tu recepción se sienta inolvidable», «Tiras de fotos personalizadas»).
+- **Tomas que se repiten:** la foto o tira impresa en la mano, la impresora sacando la foto, el celular recibiendo la foto, muro de fotos imantadas, grupos posando.
+- Lectura: lo que la matriz llamaba «rótulo fijo» funciona, pero **chico y nativo**, no como cuadro animado. El estilo de la semana 1 (cuadros, cartel dorado, animaciones) fue rechazado.
+- **Falta material propio de:** tira en la mano, impresora imprimiendo, celular recibiendo la foto. Grabarlo en el próximo evento.
 
 ## Cuenta propia `@herrera.producciones`
 - Mediana de vistas por reel: **1.219** (25 reels). Cuenta chica: tomarlo con pinzas.

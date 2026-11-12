@@ -29,10 +29,10 @@ Son del dueño. Mandan sobre cualquier idea, tendencia o recomendación de una h
 
 ## Formato y CTA
 16. **CTA único:** «Escríbenos por WhatsApp» (link https://wa.me/message/MGETLZAA7XJ2A1). No «comenta una palabra» como CTA principal (casi no se usa).
-17. **Cada reel lleva portada propia:** fotograma real, degradado oscuro, cartel dorado, título corto en Sora.
+17. **Estilo de reels LIMPIO [CONFIRMADO, 12-nov]:** clips reales con cortes al ritmo de la música, **sin motion graphics, sin cuadros ni rótulos animados, sin botón final**. Como mucho **una línea corta de texto nativo de Instagram** (la pone el dueño en Instagram o Edits, para que se vea nativo). El llamado «Escríbenos por WhatsApp» va en el caption, no dentro del video. Portada: un fotograma real limpio. El estilo con overlays y animaciones (semana 1) fue **rechazado** por verse hecho por IA. Ver [[lo-que-ha-funcionado]] (referentes).
 18. Carruseles: **una sola línea visual** con fotos reales, sin mezclar láminas editoriales. Primero **una vista con las 8 láminas juntas para aprobar**; solo lo aprobado se hace en láminas individuales.
 19. Stories: 1 a 3 listas cada día para las 10:00. Stories con link o stickers no se programan por Metricool: usar texto + «Escríbenos por WhatsApp».
-20. El texto de cierre de cada reel de la semana 1 es **solo «Escríbenos por WhatsApp»** (sin «Separa tu fecha»).
+20. El llamado es **solo «Escríbenos por WhatsApp»** (sin «Separa tu fecha»), en el caption.
 
 ## Proceso y autoridad
 21. **Nada se publica, se gasta ni se envía a terceros sin aprobación del dueño.** Anuncios: se prepara copy, variantes, audiencia y recursos; el dueño revisa antes de publicar.

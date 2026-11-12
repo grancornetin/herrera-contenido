@@ -21,8 +21,7 @@ fuentes: [kit de marca (21-sep), 07_MARCA_Y_MARKETING/01, actualización web 21-
 - Patrones (champagne repetido, escala champagne, textura cromo) acompañan fotos; no compiten con ellas.
 - Tipografía: Sora/Montserrat. Bodoni fue del logo anterior; **no restablecerla**.
 - **Logo:** usar los archivos maestros (SVG para edición/impresión, PNG para Canva/redes). No redibujar el monograma ni reemplazarlo por una tipografía aproximada.
-- **Botón de CTA en Reels:** dorado de la marca (en la web el botón destacado es cereza).
-- **Portada propia en cada reel:** fotograma real, degradado oscuro, cartel dorado y título corto en Sora.
+- **Reels:** estilo limpio, sin overlays ni botones (ver regla 17 de [[reglas-de-oro]]). La paleta y las tipografías de marca son para web, carruseles y piezas gráficas, no para cubrir los videos.
 - **Uniforme:** polera negra, logo pequeño en el pecho izquierdo; espalda con logo grande, marca y WhatsApp. (La maqueta real tiene el logo amarillo; la paleta de marca sigue siendo champagne: mostrar la polera real solo cuando deba verse.)
 - Fotos: reales de eventos de Herrera. No usar fotos de otras marcas.
 
@@ -39,7 +38,7 @@ fuentes: [kit de marca (21-sep), 07_MARCA_Y_MARKETING/01, actualización web 21-
 
 ## Textos de apoyo ya aprobados
 - Pack Estrella (voz en off, texto exacto aprobado): «Con nuestro Pack Estrella, la entretención de tu evento está asegurada: plataforma tres sesenta, Selfie Mirror y fotocabina. Tres experiencias para disfrutar y crear recuerdos inolvidables.»
-- Rótulos de servicio: «Fotocabina · Fotos impresas ilimitadas durante el servicio» · «Plataforma 360 · Videos personalizados listos para compartir» · «Selfie Mirror · El spot favorito para fotos durante todo el evento».
+- Rótulos de servicio (de la semana 1; ya no se ponen dentro de los reels, sirven como frases para captions): «Fotocabina · Fotos impresas ilimitadas durante el servicio» · «Plataforma 360 · Videos personalizados listos para compartir» · «Selfie Mirror · El spot favorito para fotos durante todo el evento».
 - Punto Foto (mensaje central de lanzamiento): «¿Ya pensaste en un espacio decorado para tu evento? El Punto Foto es la opción.» / «Ideal si ya tienes pensado un rincón decorado o preparaste una decoración especial en algún espacio del lugar.»
 - Títulos de las fichas web por servicio: `contenido/web-y-paginas.md`.
 

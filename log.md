@@ -22,3 +22,6 @@ Fuente: el dueño, en el chat. Tira del Punto Foto 5×15 cm; hora adicional en p
 
 ## [2026-11-12] revisión | Metricool reconectado
 El dueño reconectó Metricool con la cuenta correcta. Se confirmó que no se publica nada desde el 4-nov y que no hay programaciones. Se anotó el rendimiento de los 9 reels del 22-oct al 4-nov en `contenido/calendario-y-estado.md`.
+
+## [2026-11-12] cambio | Estilo de reels limpio
+El dueño rechazó los reels de la semana 1 (overlays, cuadros y motion graphics «se notan hechos por IA») y envió 7 reels de referentes. Nuevo estilo: clips reales con cortes al ritmo o toma continua, sin motion graphics, a lo más una línea de texto nativo de Instagram, CTA en el caption, portada limpia. Se cambiaron reglas de oro (17 y 20), formatos y cadencia, marca y voz, plantilla de reel, lo que ha funcionado (análisis de los referentes) y calendario. Borrador de prueba: reel de Fotocabina limpio.
