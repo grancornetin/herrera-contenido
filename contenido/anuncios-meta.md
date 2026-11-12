@@ -63,3 +63,12 @@ Plan: medir con el predictor de Higgsfield (máx. 16 s) y subir los 2–3 mejore
 - **Reseñas reales** (Google, 2023; usar sin fecha y con nombre + inicial del apellido): Karen M. «Excelente servicio, responsable con los horarios y muy amables en cuanto al trato con los invitados» · Liliana H. «Muy buen servicio, 100 % recomendables! Muy responsables y cordiales» · Juan Carlos F. «La experiencia es única y queda un lindo recuerdo para el momento mágico que uno quiere atesorar» · Fernanda P. «Excelente servicio, 100% recomendable… me encantó» · Aaron L. «Amables, puntuales, excelente atención» · Estefanía G. «Todo muy lindo, muy ordenado, los invitados quedaron muy contentos» · Pamela U. «Responsables, amables y preocupados, 100% recomendables» · Robert P. «Excelente servicio, 100% recomendable». Son sobre el servicio en general, **no sobre el Pack Estrella**: no presentarlas como reseñas del pack.
 - Guion C aprobado. A y B rechazados por poco interesantes → reescritos con estructura de historia.
 - Luz: el lowkey por corrección de color fue rechazado («se pierden detalles, parece un degradé»). El dueño quiere luz **pareja, cinematográfica y cuidada** en todo el video. La corrección de color no crea luz; la opción real es reiluminar con IA (Seedance 2.5, 35 créditos Higgsfield por tramo de 5 s). Pendiente prueba en el gancho.
+
+### Tanda 2 (12-nov) · 6 enfoques con Pía en acento chileno
+Voz: eleven_v4 con etiqueta `[strong Chilean accent]` (prueba 1, elegida por el dueño). Textos del dueño pulidos:
+- **A · Decoración:** «Nunca organices un evento sin pensar en esto: al otro día, nadie habla de la decoración. Todos recuerdan lo que vivieron. Por eso te brindamos tres experiencias para hacerlo inolvidable…» (20,8 s)
+- **B · Organizando:** «Si estás organizando un evento, esto es para ti. Tus invitados lo van a recordar por lo que vivan en él… Cada una crea un recuerdo diferente…» (23 s)
+- **C · Inolvidable:** aprobado (17,9 s)
+- **D · Reseñas:** «[susurro] Esto es lo que andan diciendo de nosotros…» + 3 tarjetas de reseña reales (Juan Carlos F., Estefanía G., Karen M.), sin fechas ni estrellas (las capturas no traen puntuación) (20,4 s)
+- **Aburrimiento** (15,9 s) e **Invitados** (14,6 s), rehechos con el acento corregido.
+Música: la misma pista disco-funk. Pendiente: medir con el predictor (máx. 16 s: se miden los primeros 16 s) y decidir la prueba de luz con IA.
