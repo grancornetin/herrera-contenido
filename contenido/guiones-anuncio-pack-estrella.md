@@ -39,3 +39,15 @@ El lunes · El celular · Bonito o inolvidable · Mira sus caras · «Un evento 
 - No afirmar que un evento «resulta» gracias a los servicios.
 - El espejo: «el espejo para las selfies de tus invitados» (no «de todo el evento» en ese guion).
 - Frase que le gustó: «Tres experiencias, un resultado inolvidable».
+
+## Estado de producción (12-nov)
+Voces de Pía generadas en ElevenLabs (eleven_v4, `[strong Chilean accent] [warmly]`, 1 toma por guion; flow `Ewr863D1kOokTeEczqoF`), costo total ≈ 1.838 créditos ElevenLabs:
+| Guion | Duración de la voz |
+|---|---|
+| 3 La decoración | 16,8 s |
+| 5 El momento muerto | 18,0 s |
+| 7 Los 3 infaltables | 22,0 s |
+| 10 Maule | 15,8 s |
+| 11 Indecisión | 11,7 s |
+| 12 La organizadora | 15,2 s |
+Falta: escuchar el acento, tarjetas/motion y montaje con clips reales, medición en Higgsfield (máx. 16 s por video medido), subir ganadores a Meta (en pausa). El guion 11 (11,7 s) es el más corto; el 7 (22 s) el más largo.
