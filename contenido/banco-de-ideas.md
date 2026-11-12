@@ -61,3 +61,16 @@ Pack Estrella con clips reales de los tres servicios (el aviso ya existió con 1
 Reels largos con voz de invitados, «matrimonio real», precios en el feed, GlamCam, tutoriales de montaje del vinilo (rindió bajo), copiar material de la competencia.
 
 Relacionado: [[lo-que-ha-funcionado]] · [[plantillas-de-piezas]]
+
+## Ganchos tomados de la guía «30 ganchos que paran el scroll» (ARIA Studio, revisada el 12-nov)
+Guía pensada para cuentas de marketing y edición de España; las cifras de rendimiento son de esas cuentas, no de la nuestra. Sirve como inspiración de fórmulas. Adaptar a tuteo chileno.
+**Principios que sí aplican:** el gancho son 3 cosas a la vez (lo que dices + lo que se lee + lo que se ve; algo se mueve en el primer segundo) · cumplir lo que prometes en el gancho · alternar tipos (error, curiosidad, lista, contraste, historia) · tres ganchos por video y quedarse con el que dé más curiosidad · no inventar cifras · sin texto en la zona que tapa Instagram.
+**No aplica:** «Escribe HOOK y te regalo…» (nuestro CTA único es «Escríbenos por WhatsApp»; no se usa «comenta una palabra»); ganchos de error con tono de reto o pérdida («estás perdiendo clientes»), porque el dueño no quiere presión ni arrogancia.
+**Candidatos adaptados (sin aprobar):**
+- #11 «Si solo tienes [poco], haz esto» → «Si solo tienes una hora para animar tu evento, haz esto.» (Pack Estrella desde 1 h).
+- #18 «Cómo [lograr algo] sin [lo que te da miedo]» → «Cómo lograr que hasta tu invitado más tímido participe, sin obligar a nadie.» (cada invitado participa a su manera: 360, Fotocabina, espejo).
+- #22 «Opinión impopular» → «Opinión impopular: a tus invitados no les falta decoración. Les falta algo que hacer.»
+- #9 «¿Sabías que…?» con dato real → «¿Sabías que en una Aero360 caben hasta 12 personas en un solo video?» (para impulsar Aero360 como servicio individual, no el pack).
+- #10 «Prueba este efecto» → 360 en cámara lenta real (clips M26/M27, 120 fps).
+- #30 «Le enseñé esto a [alguien] y mira su reacción» → invitada viendo su video/foto. **Falta material real**: grabar la reacción en el próximo evento (con permiso).
+- Descartados por el dueño o por reglas: #1–#4 (error/pérdida), #15, #17, #19–#21, #24–#29 (piden resultados o historias propias que no tenemos).
