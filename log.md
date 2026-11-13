@@ -73,3 +73,6 @@ Fuente: el dueño. Anuncio G12 «La organizadora» (16 s, estilo A) aprobado; gu
 Predictor G12: total 42, gancho 27, viral 39, retención 96.
 Variantes de gancho del G12 (13-nov): gancho1 abre con M40 (invitada con ramo en la 360); gancho2 = gancho1 + entrada con golpe del titular y del precio. Predictor: trabajos 6cf27dc4-c799-471f-a9f9-9fcdcb0ab6d2 (g1) y d81ae3df-e5c2-4465-831b-280d00a797e3 (g2). Corrección del dueño: no se eliminaron todas las animaciones, solo las de relleno.
 Predictor variantes G12: gancho1 y gancho2 = total 42, gancho 28, viral 40, retención 93 (casi igual al original). Conclusión: el predictor no distingue estas variantes; decide Meta.
+
+## [2026-11-13] cambio | Anuncio G12: el dueño elige la variante B
+Fuente: el dueño. Se queda con la **variante B** (abre con M40, la invitada del ramo en la 360, y el titular y el precio entran con un golpe). Reemplaza al original en `piezas/semana-02/aprobadas/anuncio-g12-organizadora.mp4`. Receta: `python3 herramientas/anuncios/g12_montaje.py g2`. Falta: subir a herrera-piezas y a Meta en pausa (con aprobación).
