@@ -52,3 +52,6 @@ El dueño aprobó 6 guiones (3, 5, 7, 10, 11, 12), pausó el de reseñas y desca
 
 ## [2026-11-12] cambio | Cierre del día y traspaso a la próxima sesión
 Se guardó todo lo disponible: guiones y decisiones, IDs de voces, música y Meta, scripts de montaje (herramientas/anuncios/), guía de ganchos de ARIA y resumen de la guía de luz. Nueva página recursos/produccion-de-anuncios.md. El entorno de nube «Herrera Producciones contenido» debe usarse para retomar.
+
+## [2026-11-13] cambio | Reel Fotocabina v5, reel de empresas y lista de tomas
+Fuente: el dueño, en el chat, grabando en un evento de empresa. Reel Fotocabina: clip 2 cambiado (m39 7,5 s) y clip 5 cambiado por la tira saliendo de la impresora; solo cabina inflable (no mezclar con tótem solo) → v5 aprobado, falta música. Nuevo reel de empresas (v4 aprobado el mismo día) con 16 clips del evento, todos autorizados (no subidos: repo público). Criterio aspiracional: elegir y grabar mejor, no reemplazar personas con IA. La Fotocabina no usa QR. Grabar sin HDR; modo cine solo en primeros planos. Música: opción B (el dueño sube canción de uso comercial; ahora la música va dentro del video). ElevenLabs y Metricool desconectados. Nuevas páginas: `recursos/lista-de-tomas.md`, `piezas/semana-02/recetas-reels.md`. Cambios: ficha de Fotocabina, calendario, preguntas abiertas.

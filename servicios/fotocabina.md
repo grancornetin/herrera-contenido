@@ -25,6 +25,9 @@ Entra a la cabina (hasta **6 personas por sesión**), se pone cotillón, cuenta 
 ## Implementos y cómo se trabaja [INTERNO]
 Tótem con cámara, impresora HITI P510 y sus consumibles, cabina inflable negra, cotillón, diseño de tira. **Hay una sola Fotocabina**: si está ocupada en ese horario, se ofrece Punto Foto como alternativa real (con aceptación del cliente y explicando sus límites). No confirmar indisponibilidad sin agenda validada. Operación habitual con 1–2 personas.
 
+**Sin QR** [CONFIRMADO, 13-nov]: la Fotocabina entrega la tira impresa; el QR es del Punto Foto. No mostrar ni prometer QR en piezas de Fotocabina.
+**En contenido:** no mezclar en un mismo reel tomas de la cabina inflable con tomas del tótem solo (fondos distintos). Ver [[lista-de-tomas]].
+
 ## Qué necesita el lugar
 3 × 3 m, energía cerca, acceso para descargar. Exterior solo sin lluvia. **Viento fuerte:** se prefiere no usar la cabina inflable (tótem solo). [INTERNO] Con niños pequeños no se recomienda: el tótem y el lente quedan muy altos (→ Punto Foto).
 

@@ -1,10 +1,18 @@
 ---
 tipo: preguntas
-actualizado: 2026-11-12
+actualizado: 2026-11-13
 ---
 # Preguntas abiertas (para el dueño)
 
 Marcar con fecha cuando se resuelvan y pasar la respuesta a la página que toca.
+
+## Pendientes al cierre del 13-nov (primero estos)
+- **Música (opción B):** el dueño sube una canción de estilo disco/funk/fiesta que se pueda usar comercialmente → se sincroniza al reel Fotocabina v5 y al de empresas.
+- **Reel Fotocabina v5:** con música, subir a `herrera-piezas` y programar en Metricool (redactar el caption y que el dueño lo apruebe).
+- **Reel empresas v4:** APROBADO el 13-nov. Falta música, caption y programación (el dueño puede mandar más grupos si quiere variar).
+- **Reconectar ElevenLabs y Metricool** (se cayeron en la sesión del 13-nov).
+- **Subir los clips del evento del 13-nov a `medios/`** cuando el repo pase a privado, y anotarlos en `recursos/mapa-de-medios.md`.
+- ¿Cuántos días entre el reel Fotocabina y el de empresas? (el grupo wow IMG_3866 ya no está en el de Fotocabina, así que no se repite gente).
 
 ## Abiertas (al cierre del 12-nov)
 - **G12 del anuncio:** ¿toma A (seca, mismas palabras) o B (con «Okey, organizaste todo… ¿pero ya resolviste…?»)? Bloquea el montaje.

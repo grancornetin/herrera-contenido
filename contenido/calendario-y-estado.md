@@ -1,6 +1,6 @@
 ---
 tipo: contenido
-actualizado: 2026-11-12
+actualizado: 2026-11-13
 fuentes: [calendario semana 1 v3 (aprobado 6-nov), CONTEXTO_CLAUDE_CODE §6-7, actualización web 21-oct §9]
 ---
 # Calendario y estado del contenido
@@ -41,6 +41,15 @@ Los 4 reels se rehicieron con **motion design por capas** (la primera versión, 
 - **Plan de la semana 2 (propuesta, sin aprobar del todo):** reels limpios en estilo de los referentes (Fotocabina vie 13 ✔, 360 lun 16, Aero360 mié 18, Punto Foto jue 19) + 2 carruseles (empresas sáb 14, matrimonios mar 17) + stories 10:00. Ver el calendario completo propuesto en el historial; se rehace al retomar.
 - **Anuncio Pack Estrella:** 4 guiones con voz definitiva casi listos (G7, G10, G11, G12). Todo en `recursos/produccion-de-anuncios.md` y `contenido/guiones-anuncio-pack-estrella.md`.
 - Los **reels de la semana 1 siguen descartados** (estilo de motion graphics rechazado).
+
+## Estado al 13-nov-2026 (para retomar)
+- **Reel Fotocabina v5 APROBADO** (solo cabina inflable; clip 2 y clip 5 cambiados). **Falta:** música de nuestro estilo sincronizada a los cortes → subir a `herrera-piezas/semana-02/reel-fotocabina.mp4` (mismo nombre) → programar en Metricool. No se publicó el vie 13.
+- **Reel Fotocabina · Empresas v4 APROBADO** (13-nov; falta música, caption y programación), con material grabado por el dueño hoy en un evento de empresa (todo autorizado). El dueño puede mandar más grupos.
+- Recetas exactas de ambos reels (qué clip y qué segundo): `piezas/semana-02/recetas-reels.md`.
+- **Música:** el dueño eligió la **opción B** (él sube una canción de uso comercial y se sincroniza). Cambia la regla anterior: ahora la música la ponemos nosotros en el video.
+- ElevenLabs y Metricool se desconectaron en la sesión del 13-nov: hay que reconectarlos para programar y para la música de los anuncios.
+- Los clips del evento del 13-nov **no están en el repo** (el repo sigue público): se suben a `medios/` cuando pase a privado. El dueño los tiene en su teléfono (IMG_3327, 3329, 3828, 3830, 3838, 3839, 3853, 3865, 3866, 3891, 3894, 3898, 3901, 3903, 3904, 3906).
+- Nueva guía de grabación: `recursos/lista-de-tomas.md`.
 
 ## Esqueleto de las semanas siguientes (borrador, pendiente de aprobación)
 - **Semana 1 (5–8 nov):** «Elige tu experiencia».
