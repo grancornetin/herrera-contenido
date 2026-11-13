@@ -51,6 +51,10 @@ Los 4 reels se rehicieron con **motion design por capas** (la primera versión, 
 - Los clips del evento del 13-nov **no están en el repo** (el repo sigue público): se suben a `medios/` cuando pase a privado. El dueño los tiene en su teléfono (IMG_3327, 3329, 3828, 3830, 3838, 3839, 3853, 3865, 3866, 3891, 3894, 3898, 3901, 3903, 3904, 3906).
 - Nueva guía de grabación: `recursos/lista-de-tomas.md`.
 
+## Estado al cierre del 13-nov (tarde)
+- **Reel Fotocabina · Empresas: PROGRAMADO** en Metricool para el **vie 13-nov a las 21:00**, publicación automática, con música y caption aprobados (ver `piezas/semana-02/recetas-reels.md`). Enlace: `herrera-piezas/semana-02/reel-fotocabina-empresas.mp4`. El dueño lo quiso hoy para aprovechar el contexto fresco y el público de las historias del evento.
+- **Reel Fotocabina v5: EN PAUSA** por decisión del dueño («contenido muy reciclado»). No se tocó `herrera-piezas/semana-02/reel-fotocabina.mp4` (v2).
+
 ## Esqueleto de las semanas siguientes (borrador, pendiente de aprobación)
 - **Semana 1 (5–8 nov):** «Elige tu experiencia».
 - **Semana 2 (9–15 nov):** fin de año y empresas.

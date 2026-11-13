@@ -58,3 +58,6 @@ Fuente: el dueño, en el chat, grabando en un evento de empresa. Reel Fotocabina
 
 ## [2026-11-13] cambio | Historias del evento y todo a main
 Historia del evento de empresa (video con efectos) publicada por el dueño con el texto «Fotocabina 📸 Fotos impresas al instante para todos tus asistentes ✨»; historia 2 = fotograma de IMG_3904 (segundo 1,7, trío mostrando sus tiras) con sticker de enlace «Escríbenos por WhatsApp». Patrón para historias: video sin CTA + segunda historia fija con el sticker de enlace. Nueva regla en CLAUDE.md: todo lo aprobado para guardar se fusiona a `main` (pedido del dueño).
+
+## [2026-11-13] cambio | Reel de empresas con música, caption y programado
+Fuente: el dueño, en el chat. Música: disco-funk 2 de ElevenLabs con cada toma estirada a 2 golpes (83 % de velocidad); rechazó la versión con música acelerada. Caption aprobado tras `ig-caption`, `ig-human` y Brand Guardian. Subido a `herrera-piezas/semana-02/reel-fotocabina-empresas.mp4` y programado en Metricool el vie 13-nov 21:00 con **publicación automática** (nueva regla: la música va en el video y los reels se publican solos). Reel Fotocabina v5 en pausa (reciclado). Nuevo script `herramientas/reels/sincronizar_musica.py`. Cambios: recetas, formatos y cadencia, calendario, preguntas abiertas.

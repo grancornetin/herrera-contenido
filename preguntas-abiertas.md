@@ -6,7 +6,13 @@ actualizado: 2026-11-13
 
 Marcar con fecha cuando se resuelvan y pasar la respuesta a la página que toca.
 
-## Pendientes al cierre del 13-nov (primero estos)
+## Pendientes al cierre del 13-nov, tarde (primero estos)
+- **Reel de empresas:** programado vie 13-nov 21:00 (automático). Revisar al día siguiente que se haya publicado y cómo rinde.
+- **Reel Fotocabina v5:** en pausa (contenido reciclado). ¿Se retoma con material nuevo o se descarta?
+- **ElevenLabs:** reconectar con todos los permisos antes de generar voces (lee flows, pero la cuenta pide más permisos).
+- **Anuncios Pack Estrella:** G12, ¿toma A o B? (sigue abierta abajo).
+
+## Pendientes al cierre del 13-nov, mañana (ya resueltos en parte)
 - **Música (opción B):** el dueño sube una canción de estilo disco/funk/fiesta que se pueda usar comercialmente → se sincroniza al reel Fotocabina v5 y al de empresas.
 - **Reel Fotocabina v5:** con música, subir a `herrera-piezas` y programar en Metricool (redactar el caption y que el dueño lo apruebe).
 - **Reel empresas v4:** APROBADO el 13-nov. Falta música, caption y programación (el dueño puede mandar más grupos si quiere variar).

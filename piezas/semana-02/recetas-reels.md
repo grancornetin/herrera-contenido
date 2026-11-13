@@ -45,7 +45,28 @@ Todo del **evento de empresa del 13-nov** (solo tótem, sin cabina inflable). 9 
 Descartadas por el dueño: pantalla del tótem con cuenta regresiva (IMG_3906, «no me gusta»), primera tira saliendo (IMG_3828 desde 14,0). Sin usar: IMG_3901 (repite al del sombrero amarillo de 3894), IMG_3329 (movida), IMG_3839 (de espalda), IMG_3891 (sale el equipo), IMG_3898 (tótem solo en pasillo).
 **Pendiente:** el dueño puede mandar **más grupos** distintos para reemplazar o sumar; luego música y programación.
 
-## Música (pendiente, opción B elegida el 13-nov)
+## Música y publicación del reel de empresas (13-nov) · PROGRAMADO
+- El dueño no subió canción: se usó la **música disco-funk 2 de ElevenLabs** (`nyvuKUdxHq1BqtLnw9v6`, 125 BPM exactos, un golpe = 0,48 s; ver `recursos/produccion-de-anuncios.md` §3). Se eligió la 2 porque arranca con toda la energía (la 1 es suave los primeros ~6 s).
+- **Sincronización elegida por el dueño:** cada toma se estira a **2 golpes = 0,96 s** (imagen al 83 % de velocidad, cámara lenta suave) y el cierre del trío a **4 golpes**. Música desde 0,012 s, desvanecido final de 0,7 s. Resultado: 9,6 s, 1080 × 1920, H.264 ~8 Mbps, AAC 48 kHz. Script: `herramientas/reels/sincronizar_musica.py`.
+- Cortes del v4 sin música (para el script): `0,0.8333,1.6333,2.4333,3.2333,4.0667,4.9,5.6,6.4,7.9667` · golpes `2,2,2,2,2,2,2,2,4`.
+- Probadas y **rechazadas**: video a velocidad normal con la música acelerada a 150 BPM (canción 2 y canción 1). El dueño prefirió la cámara lenta suave.
+- Subido a `herrera-piezas/semana-02/reel-fotocabina-empresas.mp4`. Programado en Metricool el **vie 13-nov 21:00**, publicación automática.
+- **Caption aprobado** (pasó por `ig-caption`, `ig-human` y Brand Guardian):
+> Fotocabina para empresas: cada persona que participa se lleva su tira impresa al instante, con el logo de tu empresa.
+>
+> Cotillón, carteles y risas entre compañeros. Hasta 6 personas por sesión, con fotos impresas ilimitadas durante el servicio.
+>
+> Nosotros llevamos el equipo y lo operamos. Tú disfrutas con tu gente.
+>
+> Para la fiesta de fin de año, aniversarios, sindicatos y activaciones en Talca y la Región del Maule.
+>
+> Escríbenos por WhatsApp y cuéntanos tu tipo de evento, la fecha y la comuna.
+>
+> #fotocabina #eventosdeempresa #talca
+
+**Reel Fotocabina v5: EN PAUSA** (13-nov, el dueño: «contenido muy reciclado»). Si se retoma, se le pone música con el mismo script (cortes cada 0,8 s, 10 tomas de 2 golpes).
+
+## Música (historial: opción B elegida el 13-nov)
 - El dueño eligió **poner la música nosotros dentro del video** (antes la ponía él en Instagram). Estilo: disco / funk / fiesta 70–90.
 - **Opción B:** el dueño sube una canción que se pueda usar comercialmente; se sincronizan los cortes al ritmo (cada corte en un tiempo del compás; a 125 BPM un tiempo = 0,48 s, dos tiempos = 0,96 s).
 - Alternativa: la música disco-funk ya generada en ElevenLabs (ver `recursos/produccion-de-anuncios.md` §3). El 13-nov ElevenLabs y Metricool estaban **desconectados** en la sesión.
