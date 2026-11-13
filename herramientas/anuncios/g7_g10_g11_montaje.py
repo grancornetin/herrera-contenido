@@ -30,5 +30,14 @@ G['g7']=('vo-g7-16s.mp3',15.94,[
  (8.53,11.62,[('m36',8.2),('m35',1.2)],'3 · *Selfie Mirror*',{'sub':'la más top'}),
  (11.62,14.82,[('m37',1.0),('m13',5.0)],'*$240.000*',P),
  (14.82,15.94,[('m40',2.6)],W,None)],'G7-infaltables.mp4')
+# G7 completo (decisión del dueño 13-nov: NO recortar): voz aprobada con arranque ×1,14 → vo-g7-full.mp3 (20,77 s)
+G['g7full']=('vo-g7-full.mp3',20.77,[
+ (0,2.66,[('m40',0.6),('m27',2.3)],'*3 infaltables*|para tu evento',{'size':104,'pop':True}),
+ (2.66,5.42,[('m12',0.2),('m39',7.5)],'La tercera es|la más *top*',None),
+ (5.42,8.65,[('m11',0.4),('m19',1.0)],'1 · *Fotocabina*',{'sub':'risas impresas'}),
+ (8.65,12.22,[('m26',5.0),('m24',3.2)],'2 · *Plataforma 360*',{'sub':'siéntete protagonista'}),
+ (12.22,16.00,[('m36',8.2),('m35',1.2),('m21',1.0)],'3 · *Selfie Mirror*',{'sub':'la más top'}),
+ (16.00,19.52,[('m37',1.0),('m13',5.0)],'*$240.000*',P),
+ (19.52,20.77,[('m40',2.6)],W,None)],'G7-infaltables-completo.mp4')
 for k in (sys.argv[1:] or G):
     vo,tot,segs,out=G[k]; build(k,vo,tot,segs,'mus.mp3',out,estilo='A')

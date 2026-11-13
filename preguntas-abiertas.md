@@ -7,6 +7,7 @@ actualizado: 2026-11-13
 Marcar con fecha cuando se resuelvan y pasar la respuesta a la página que toca.
 
 ## Pendientes al cierre del 13-nov, tarde (primero estos)
+- **PRUEBA DE ANUNCIOS COMO REELS DE PRUEBA (Trial Reels) [CONFIRMADO, 13-nov]:** los 4 anuncios (G12 B, G10, G11, G7 completo de 20,8 s, sin recortar por decisión del dueño) se programaron en Metricool como **reels de prueba** el vie 13-nov a las 18:15 / 18:20 / 18:25 / 18:30, publicación automática, **sin compartir nunca al perfil** (`shareTrialAutomatically: false`), con precio (el dueño acepta la excepción porque no aparecen en el feed) y **sin marca de IA** (decisión del dueño). Mismo caption en los 4. **Revisar números el mar 17 o mié 18** (alcance, tiempo de visualización, compartidos, guardados) con Metricool/Windsor; el ganador va a Meta en pausa.
 - **Reel de empresas:** programado vie 13-nov 21:00 (automático). Revisar al día siguiente que se haya publicado y cómo rinde.
 - **Reel Fotocabina v5:** en pausa (contenido reciclado). ¿Se retoma con material nuevo o se descarta?
 - **ElevenLabs:** reconectar con todos los permisos antes de generar voces (lee flows, pero la cuenta pide más permisos).
