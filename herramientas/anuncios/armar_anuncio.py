@@ -16,7 +16,7 @@ C={'m10':M+'fotocabina/m10-extracto-sesion-fotocabina.mp4','m11':M+'fotocabina/m
 'm16':M+'fotocabina/m16-fotocabina-vista-interna.mp4','m19':M+'fotocabina/m19-grupo-fotocabina.mp4','m39':M+'fotocabina/m39-sesion-grupal-fotocabina-extraxto.mp4',
 'm21':M+'selfie-mirror/m21-novios-frente-al-selfie-mirror.mp4','m35':M+'selfie-mirror/m35-selfie-mirror-registro-propio.mp4','m36':M+'selfie-mirror/m36-selfie-mirror-uso.mp4',
 'm24':M+'plataforma-360/m24-plataforma-360-pov-desde-afuera.mp4','m25':M+'plataforma-360/m25-plataforma-360-pov-externo-con-staff.mp4',
-'m26':M+'plataforma-360/m26-plataforma-360-pov-final-2.mp4','m27':M+'plataforma-360/m27-plataforma-360-pov-final.mp4','m40':M+'plataforma-360/m40-plataforma-360-invitada-con-ramo.mp4','m34':M+'selfie-mirror/m34-selfie-mirror-montaje-2.mp4','m33':M+'selfie-mirror/m33-selfie-mirror-montaje-1.mp4'}
+'m26':M+'plataforma-360/m26-plataforma-360-pov-final-2.mp4','m27':M+'plataforma-360/m27-plataforma-360-pov-final.mp4','m40':M+'plataforma-360/m40-plataforma-360-invitada-con-ramo.mp4','m34':M+'selfie-mirror/m34-selfie-mirror-montaje-2.mp4','m33':M+'selfie-mirror/m33-selfie-mirror-montaje-1.mp4','m37':M+'fotocabina/m37-sesion-fotoacbina-novios.mp4'}
 def card(path, main, sub=None):
     im=Image.new('RGBA',(1080,1920),(0,0,0,0)); d=ImageDraw.Draw(im)
     f=ImageFont.truetype(F+'montserrat-600.ttf',76); fs=ImageFont.truetype(F+'montserrat-600.ttf',46)
