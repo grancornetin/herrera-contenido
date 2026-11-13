@@ -10,7 +10,7 @@ Marcar con fecha cuando se resuelvan y pasar la respuesta a la página que toca.
 - **Reel de empresas:** programado vie 13-nov 21:00 (automático). Revisar al día siguiente que se haya publicado y cómo rinde.
 - **Reel Fotocabina v5:** en pausa (contenido reciclado). ¿Se retoma con material nuevo o se descarta?
 - **ElevenLabs:** reconectar con todos los permisos antes de generar voces (lee flows, pero la cuenta pide más permisos).
-- **Anuncios Pack Estrella:** G12, ¿toma A o B? (sigue abierta abajo).
+- **Anuncios Pack Estrella:** G12 RESUELTO (voz aprobada con el puente «De eso nos encargamos nosotros»). Sigue: montar los anuncios con clips reales.
 
 ## Pendientes al cierre del 13-nov, mañana (ya resueltos en parte)
 - **Música (opción B):** el dueño sube una canción de estilo disco/funk/fiesta que se pueda usar comercialmente → se sincroniza al reel Fotocabina v5 y al de empresas.
@@ -21,7 +21,7 @@ Marcar con fecha cuando se resuelvan y pasar la respuesta a la página que toca.
 - ¿Cuántos días entre el reel Fotocabina y el de empresas? (el grupo wow IMG_3866 ya no está en el de Fotocabina, así que no se repite gente).
 
 ## Abiertas (al cierre del 12-nov)
-- **G12 del anuncio:** ¿toma A (seca, mismas palabras) o B (con «Okey, organizaste todo… ¿pero ya resolviste…?»)? Bloquea el montaje.
+- ~~**G12 del anuncio:** ¿toma A o B?~~ Resuelto el 13-nov (B + puente).
 - **Ganchos de la guía de ARIA:** ¿cuáles de A–E se desarrollan como guion? (recomendado: B, C y E para el Pack Estrella; D para Aero360).
 - **Prueba de luz con IA** en el gancho (35 créditos de Higgsfield): sin respuesta.
 - **Reel Fotocabina v2** (aprobado, en `herrera-piezas/semana-02/`): ¿se programa en Metricool para el viernes 13 a las 18:30? Sin respuesta.

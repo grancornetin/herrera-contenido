@@ -43,6 +43,8 @@ fuentes: [sesión del 12-nov con el dueño; Windsor, ElevenLabs, Higgsfield, Met
 | **G7 Infaltables v2** (21,4 s; después se aceleró el arranque → 20,8 s) | 1BufwcpCjTABWchHr5Iy | zWInuhBla8qDzJAKt777 | Aprobada «acelerando el arranque» (la versión acelerada se hace de nuevo con ffmpeg) |
 | **G12 Organizadora, toma A** seca (15,6 s) | NvOCN8KL4zzrKmE0943l | oqv75FHWNtehW9namPmd | **Esperando elección A o B** |
 | **G12 Organizadora, toma B** «Okey, organizaste todo… ¿pero ya resolviste…?» (17,3 s) | BPavxbflxxRirN4bQMm5 | X2Ef7WvJXl8gBRDY2VrI | **Esperando elección A o B** |
+| **G12 FINAL** (15,96 s) = inicio de la toma B + puente 1 | inicio: BPavxbflxxRirN4bQMm5 · final: EVrg31F88rvKgeyRwY8d | X2Ef7WvJXl8gBRDY2VrI · 6Rr2D3168zq0Z8mfeF4v | **APROBADA 13-nov.** Archivo: `piezas/semana-02/aprobadas/g12-voz-final.mp3`. Armado: de la toma B se quita la pausa 1,72–2,44 s (y se acorta la de 0,46–0,69), los primeros 4,6 s ×1,10 (atempo), se corta en 4,30 s; el final se le acortan pausas a 0,14 s; ambos a −16 LUFS; todo ×1,067 (atempo) para quedar en 16 s. **No usar rubberband ×1,5 en una palabra: suena a ardilla.** |
+| G12 puentes descartados | «Tranqui…» 4Ytojdul0jCHVoCfuNCe, sFJ5AMbFWVHmIKXzM6b2, WhG8elkCEsNABdEe8QxB, MFPGkwfY2QDtplzRtHk7 · «Para eso estamos» Ev9jDxXIbEWbZl8MHYOm · «Eso déjanoslo a nosotros» OEYxiAnwe7t1s5cUPtfR | — | Descartados 13-nov |
 | Música disco-funk 1 (30 s) | vwCM6r8vx26UJsYXgrOk | rewTad0pQg9ASirjs1Xr | Usada en todo |
 | Música disco-funk 2 (30 s) | nyvuKUdxHq1BqtLnw9v6 | XinFKzWrv7R53HGnKBUt | Alternativa |
 | G7 original (22 s) | 2xtqHG447X4orQHDZyRt | rprqrMy5to10AkuHZzOS | Reemplazada |

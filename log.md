@@ -61,3 +61,6 @@ Historia del evento de empresa (video con efectos) publicada por el dueño con e
 
 ## [2026-11-13] cambio | Reel de empresas con música, caption y programado
 Fuente: el dueño, en el chat. Música: disco-funk 2 de ElevenLabs con cada toma estirada a 2 golpes (83 % de velocidad); rechazó la versión con música acelerada. Caption aprobado tras `ig-caption`, `ig-human` y Brand Guardian. Subido a `herrera-piezas/semana-02/reel-fotocabina-empresas.mp4` y programado en Metricool el vie 13-nov 21:00 con **publicación automática** (nueva regla: la música va en el video y los reels se publican solos). Reel Fotocabina v5 en pausa (reciclado). Nuevo script `herramientas/reels/sincronizar_musica.py`. Cambios: recetas, formatos y cadencia, calendario, preguntas abiertas.
+
+## [2026-11-13] cambio | Voz del G12 aprobada
+Fuente: el dueño, en el chat. Toma B sin pausa + puente nuevo «De eso nos encargamos nosotros» (faltaba decir que nosotros resolvemos la necesidad antes de listar los servicios). «Tranqui» descartado. Guion recortado a 16 s para medir en Higgsfield. Gasto del día en ElevenLabs ≈ 2.070 créditos. Cambios: guiones, producción de anuncios, preguntas abiertas.

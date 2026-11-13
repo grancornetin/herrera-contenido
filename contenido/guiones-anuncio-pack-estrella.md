@@ -26,7 +26,9 @@ A tu evento no le pueden faltar estas tres cosas. / La tercera es la más sencil
 ¿Fotocabina o 360? No tienes que elegir. / El Pack Estrella trae las dos, / más un Selfie Mirror durante todo el evento. / [CIERRE]
 
 **12 · La organizadora** · Pantalla: «¿Quién entretiene a tus invitados?»
-Organizaste todo. ¿Y quién entretiene a tus invitados? / Mientras tú disfrutas, ellos posan en la Fotocabina, / giran en la 360 / y se sacan selfies frente al espejo. / [CIERRE]
+~~Organizaste todo. ¿Y quién entretiene a tus invitados? / Mientras tú disfrutas…~~ → **Voz APROBADA el 13-nov (15,96 s):**
+«Okey, organizaste todo. ¿Pero ya resolviste quién entretiene a tus invitados? / De eso nos encargamos nosotros. / Mientras tú disfrutas, ellos posan en la Fotocabina, giran en la tres sesenta y se sacan selfies en el espejo. / Pack Estrella, desde doscientos cuarenta mil, más traslado. / Escríbenos por WhatsApp.»
+Por qué el puente: el dueño notó que el guion pasaba de la pregunta a la lista de servicios sin decir que **nosotros** resolvemos esa necesidad. «Tranqui» se probó y se descartó (sonaba largo y con otro tono que el resto).
 
 ## En pausa
 **4 · Reseñas / chisme de los comentarios:** la idea le gusta al dueño pero ningún guion lo convenció. Material listo para retomar: 8 reseñas reales (todas con 5 estrellas, confirmado por el dueño), sin fecha, nombre + inicial; tarjetas en motion graphics.
@@ -56,6 +58,7 @@ Falta: escuchar el acento, tarjetas/motion y montaje con clips reales, medición
 - **Aprobadas:** G10 (Maule) y G11 (Indecisión).
 - **G7:** aprobada con la petición de acelerar el ritmo del arranque. Se regeneró con tags `[energetic] [fast pace]` (casi no cambió) y se aceleró el tramo inicial (0–5,9 s) ×1,14 sin cambiar el tono → 20,8 s.
 - **G12:** el contenido gusta, pero el arranque sonaba **sorprendido** («¿organizaste todo?!»). Quiere un tono **irónico/seco**, como «okey, organizaste todo… ¿pero ya resolviste esto?». Dos tomas nuevas: A (`[dry] [sarcastic]`, mismas palabras, 15,6 s) y B (`[deadpan] [raised eyebrow tone]`, con «Okey, organizaste todo. ¿Pero ya resolviste quién entretiene a tus invitados?», 17,3 s). El dueño elige.
+- **G12 resuelto (13-nov):** toma B, sin la pausa larga tras «organizaste todo» y con el arranque 10 % más ágil, + puente «De eso nos encargamos nosotros» en el mismo tono seco del inicio (la voz se pone cálida desde «Mientras tú disfrutas»). Ajustado a 16 s para medir en Higgsfield. Detalle técnico en `recursos/produccion-de-anuncios.md` §3.
 - **Descartadas:** G3 (decoración) y G5 (momento muerto).
 - Costo de esta ronda ≈ 1.130 créditos ElevenLabs.
 
