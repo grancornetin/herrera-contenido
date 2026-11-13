@@ -80,3 +80,4 @@ G12 variante B subido a herrera-piezas (semana-02/anuncio-g12-organizadora.mp4).
 
 ## [2026-11-13] cambio | Borradores de anuncios G7, G10 y G11
 ElevenLabs reconectado. Se bajaron las voces aprobadas G10 y G11 (a `piezas/semana-02/aprobadas/`) y se armaron los tres anuncios con el mismo estilo del G12 B (`herramientas/anuncios/g7_g10_g11_montaje.py`). G7 recortado a 16 s como **propuesta sin aprobar** (sin «La tercera es la más sencilla, y la más top», ×1,10). Borradores en `piezas/semana-02/borradores/`. Predictor: G10 `6367cab4-10a7-4a70-a403-50cfc3738376`, G11 `0b14c8b1-7cc5-47b8-bf99-735b7b7b3983`, G7 pendiente (media `83951f6c-5e9a-410b-a019-051807cea237`).
+Ranking predictor 13-nov: G12 B 42 · G7 41 · G10 40 (mejor gancho 30 y viral 41, retención 80) · G11 40 (retención 96). Empate técnico.
