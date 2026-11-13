@@ -1,7 +1,8 @@
 """Monta un anuncio vertical 1080x1920: clips reales (ids m10, m24...) con cortes sincronizados a una voz,
 texto en la mitad inferior (y termina en 1380), tarjetas de reseña, voz + música (a 0,20 de volumen).
 Requiere ffmpeg y Pillow. Los clips se leen de medios/servicios/ y las fuentes de medios/marca/fuentes/.
-Uso: ver ejemplo_tanda_anuncios.py (build(nombre, voz.mp3, duracion_total, segmentos, musica.mp3, salida.mp4)).
+Estilo A (13-nov, aprobado): build(..., estilo='A'); el subtítulo es un dict {'sup':..,'sub':..,'size':..}.
+Uso: ver ejemplo_tanda_anuncios.py y g12_montaje.py (build(nombre, voz.mp3, duracion_total, segmentos, musica.mp3, salida.mp4)).
 Cada segmento = (t_inicio, t_fin, [(id_clip, segundo_de_inicio), ...], texto_principal, subtitulo).
 Para sincronizar: medir las pausas de la voz con
   ffmpeg -i voz.mp3 -af silencedetect=n=-35dB:d=0.18 -f null -
@@ -37,7 +38,31 @@ def card(path, main, sub=None):
     for l,ff,yy in items:
         x=(1080-d.textlength(l,font=ff))/2; d.text((x,yy),l,font=ff,fill=(255,255,255,255))
     im.save(path)
-def build(name, vo, total, segs, music, out):
+CH=(207,175,116)  # champagne de marca
+def card_a(path, main, sub=None, sup=None, size=112):
+    """Estilo A (aprobado 13-nov): titular Sora 800 grande, palabra clave en champagne.
+    main: '|' corta línea, *palabra* va en champagne. sup: línea chica arriba. sub: línea chica abajo."""
+    im=Image.new('RGBA',(1080,1920),(0,0,0,0)); d=ImageDraw.Draw(im)
+    big=ImageFont.truetype(F+'sora-800.ttf',size); small=ImageFont.truetype(F+'sora-600.ttf',56)
+    rows=[]
+    if sup: rows.append(([(sup,small,(255,255,255))],70))
+    for ln in main.split('|'):
+        parts=[];
+        for i,ch in enumerate(ln.split('*')):
+            if ch: parts.append((ch,big,CH if i%2 else (255,255,255)))
+        rows.append((parts,size+18))
+    if sub: rows.append(([(sub,small,(255,255,255))],70))
+    y=1380-sum(h for _,h in rows); items=[]
+    for parts,h in rows:
+        w=sum(d.textlength(t,font=f) for t,f,c in parts); x=(1080-w)/2
+        for t,f,c in parts: items.append((x,y,t,f,c)); x+=d.textlength(t,font=f)
+        y+=h
+    sh=Image.new('RGBA',im.size,(0,0,0,0)); ds=ImageDraw.Draw(sh)
+    for x,y,t,f,c in items: ds.text((x+4,y+6),t,font=f,fill=(0,0,0,230))
+    sh=sh.filter(ImageFilter.GaussianBlur(9)); im=Image.alpha_composite(sh,im); d=ImageDraw.Draw(im)
+    for x,y,t,f,c in items: d.text((x,y),t,font=f,fill=c,stroke_width=2,stroke_fill=(0,0,0,90))
+    im.save(path)
+def build(name, vo, total, segs, music, out, estilo=None):
     # segs: (t0,t1,[(clip,start)],main,sub)
     tmp=out+'_tmp'; os.makedirs(tmp,exist_ok=True)
     inp=[];fl=[];k=0;vl=[]
@@ -49,7 +74,11 @@ def build(name, vo, total, segs, music, out):
     fl.append(''.join(vl)+f'concat=n={k}:v=1:a=0[base]')
     last='base'
     for i,(t0,t1,clips,main,sub) in enumerate(segs):
-        p=f'{tmp}/c{i}.png'; (review_card(p,*main) if isinstance(main,tuple) else card(p,main,sub)); inp+=['-i',p]
+        p=f'{tmp}/c{i}.png'
+        if isinstance(main,tuple): review_card(p,*main)
+        elif estilo=='A': card_a(p,main,**(sub or {}))
+        else: card(p,main,sub)
+        inp+=['-i',p]
         fl.append(f'[{last}][{k}:v]overlay=0:0:enable=\'between(t,{t0},{t1-0.001})\'[o{i}]'); last=f'o{i}'; k+=1
     inp+=['-i',vo,'-i',music]; a1=k; a2=k+1
     fl.append(f'[{a1}:a]loudnorm=I=-16:TP=-1.5,apad[voz]')

@@ -23,7 +23,7 @@ fuentes: [sesión del 12-nov con el dueño; Windsor, ElevenLabs, Higgsfield, Met
 
 ## 2. Estilo de los anuncios (decisiones del dueño)
 - Los **anuncios llevan texto, música y voz** (a diferencia de los reels orgánicos, que van limpios y sin voz).
-- Texto: letra blanca con sombra suave, **en la mitad inferior**, terminando antes del 72 % de la altura (y≈1380 de 1920) para no chocar con la interfaz de Instagram. Sin cuadros ni animaciones de relleno.
+- Texto **estilo A [CONFIRMADO, 13-nov]**: titular Sora 800 grande, una palabra clave en champagne #CFAF74, complementa a la voz (no la repite), precio grande. Letra con sombra suave, **en la mitad inferior**, terminando antes del 72 % de la altura (y≈1380 de 1920) para no chocar con la interfaz de Instagram. Sin cuadros ni animaciones de relleno.
 - Primer segundo: el clip con más movimiento (360 girando). Primer clip y texto visibles desde el cuadro 1.
 - Tarjetas de reseña: **motion graphics y con 5 estrellas** (el dueño confirmó que todas las tienen). Aún no hechas (la versión sin animación se descartó).
 - **Luz:** el «lowkey» por corrección de color se **rechazó** (se pierden detalles, parece un degradé). Quiere luz **uniforme, cinematográfica y cuidada** en todo el video. La corrección de color no crea luz; la opción real es reiluminar con IA siguiendo la guía de 24 esquemas de luz de Higgsfield: (1) sacar un frame y relucirlo con Nano Banana Pro 4K («Relight this exact photo with [LUZ]. Keep everything else identical…»), (2) pasar el clip + la foto a Seedance 2.5 Edit 1080p («Edit only the lighting of this video… Lighting stays constant…»). Cotizado: `seedance_2_5` con `video_references` ≈ **35 créditos por tramo de 5 s**. **Pendiente** que el dueño apruebe una prueba de 35 créditos en el gancho.

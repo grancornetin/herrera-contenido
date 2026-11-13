@@ -64,3 +64,6 @@ Fuente: el dueño, en el chat. Música: disco-funk 2 de ElevenLabs con cada toma
 
 ## [2026-11-13] cambio | Voz del G12 aprobada
 Fuente: el dueño, en el chat. Toma B sin pausa + puente nuevo «De eso nos encargamos nosotros» (faltaba decir que nosotros resolvemos la necesidad antes de listar los servicios). «Tranqui» descartado. Guion recortado a 16 s para medir en Higgsfield. Gasto del día en ElevenLabs ≈ 2.070 créditos. Cambios: guiones, producción de anuncios, preguntas abiertas.
+
+## [2026-11-13] cambio | Anuncio G12: texto estilo A
+Fuente: el dueño. El texto blanco simple se veía «simplón»: se aprobó el **estilo A** (titular Sora 800 grande, palabra clave en champagne, el texto complementa a la voz en vez de repetirla; precio grande). Se quitó la toma de M16 con un niño de cara visible (regla de niños). Herramienta: `build(..., estilo='A')` en `herramientas/anuncios/armar_anuncio.py`; receta en `g12_montaje.py`.
