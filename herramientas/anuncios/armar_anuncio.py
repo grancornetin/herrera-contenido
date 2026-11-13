@@ -76,10 +76,19 @@ def build(name, vo, total, segs, music, out, estilo=None):
     for i,(t0,t1,clips,main,sub) in enumerate(segs):
         p=f'{tmp}/c{i}.png'
         if isinstance(main,tuple): review_card(p,*main)
-        elif estilo=='A': card_a(p,main,**(sub or {}))
+        elif estilo=='A': card_a(p,main,**{a:b for a,b in (sub or {}).items() if a!='pop'})
         else: card(p,main,sub)
-        inp+=['-i',p]
-        fl.append(f'[{last}][{k}:v]overlay=0:0:enable=\'between(t,{t0},{t1-0.001})\'[o{i}]'); last=f'o{i}'; k+=1
+        pop=isinstance(sub,dict) and sub.get('pop')
+        if pop:
+            # entrada con golpe (aprobado 13-nov): el texto aparece 18 % más grande y se asienta en 0,3 s, anclado en su centro
+            inp+=['-loop','1','-framerate','30','-t',str(total),'-i',p]
+            S=f"(1+0.10*max(0,1-(t-{t0})/0.3))"
+            fl.append(f"[{k}:v]format=rgba,scale=w='trunc(1080*{S}/2)*2':h='trunc(1920*{S}/2)*2':eval=frame"+(f",fade=t=in:st={t0}:d=0.12:alpha=1" if t0>0 else "")+f"[p{i}]")
+            fl.append(f"[{last}][p{i}]overlay=x='540-overlay_w/2':y='1290-1290*overlay_h/1920':eval=frame:enable='between(t,{t0},{t1-0.001})'[o{i}]")
+        else:
+            inp+=['-i',p]
+            fl.append(f'[{last}][{k}:v]overlay=0:0:enable=\'between(t,{t0},{t1-0.001})\'[o{i}]')
+        last=f'o{i}'; k+=1
     inp+=['-i',vo,'-i',music]; a1=k; a2=k+1
     fl.append(f'[{a1}:a]loudnorm=I=-16:TP=-1.5,apad[voz]')
     fl.append(f'[{a2}:a]volume=0.20,afade=t=out:st={total-0.8}:d=0.8[mus]')

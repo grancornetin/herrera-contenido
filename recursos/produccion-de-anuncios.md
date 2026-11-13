@@ -23,6 +23,7 @@ fuentes: [sesión del 12-nov con el dueño; Windsor, ElevenLabs, Higgsfield, Met
 
 ## 2. Estilo de los anuncios (decisiones del dueño)
 - Los **anuncios llevan texto, música y voz** (a diferencia de los reels orgánicos, que van limpios y sin voz).
+- **Animaciones [CONFIRMADO, 13-nov]:** se evitan solo las de relleno («fofas»); una entrada con golpe del titular o del precio sí vale (`'pop':True` en el montaje).
 - Texto **estilo A [CONFIRMADO, 13-nov]**: titular Sora 800 grande, una palabra clave en champagne #CFAF74, complementa a la voz (no la repite), precio grande. Letra con sombra suave, **en la mitad inferior**, terminando antes del 72 % de la altura (y≈1380 de 1920) para no chocar con la interfaz de Instagram. Sin cuadros ni animaciones de relleno.
 - Primer segundo: el clip con más movimiento (360 girando). Primer clip y texto visibles desde el cuadro 1.
 - Tarjetas de reseña: **motion graphics y con 5 estrellas** (el dueño confirmó que todas las tienen). Aún no hechas (la versión sin animación se descartó).
