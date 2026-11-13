@@ -77,3 +77,6 @@ Predictor variantes G12: gancho1 y gancho2 = total 42, gancho 28, viral 40, rete
 ## [2026-11-13] cambio | Anuncio G12: el dueño elige la variante B
 Fuente: el dueño. Se queda con la **variante B** (abre con M40, la invitada del ramo en la 360, y el titular y el precio entran con un golpe). Reemplaza al original en `piezas/semana-02/aprobadas/anuncio-g12-organizadora.mp4`. Receta: `python3 herramientas/anuncios/g12_montaje.py g2`. Falta: subir a herrera-piezas y a Meta en pausa (con aprobación).
 G12 variante B subido a herrera-piezas (semana-02/anuncio-g12-organizadora.mp4). Meta en espera: el dueño quiere armar G7, G10 y G11 y elegir por puntaje. ElevenLabs desconectado en esta sesión: traspaso en preguntas-abiertas.
+
+## [2026-11-13] cambio | Borradores de anuncios G7, G10 y G11
+ElevenLabs reconectado. Se bajaron las voces aprobadas G10 y G11 (a `piezas/semana-02/aprobadas/`) y se armaron los tres anuncios con el mismo estilo del G12 B (`herramientas/anuncios/g7_g10_g11_montaje.py`). G7 recortado a 16 s como **propuesta sin aprobar** (sin «La tercera es la más sencilla, y la más top», ×1,10). Borradores en `piezas/semana-02/borradores/`. Predictor: G10 `6367cab4-10a7-4a70-a403-50cfc3738376`, G11 `0b14c8b1-7cc5-47b8-bf99-735b7b7b3983`, G7 pendiente (media `83951f6c-5e9a-410b-a019-051807cea237`).
