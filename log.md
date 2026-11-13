@@ -70,3 +70,4 @@ Fuente: el dueño. El texto blanco simple se veía «simplón»: se aprobó el *
 
 ## [2026-11-13] cambio | Anuncio G12 APROBADO
 Fuente: el dueño. Anuncio G12 «La organizadora» (16 s, estilo A) aprobado; guardado en `piezas/semana-02/aprobadas/anuncio-g12-organizadora.mp4`. Enviado al predictor de Higgsfield (trabajo `1ec09707-4e2a-4981-98f5-3dd7ed0ef82b`, media `6e5fcf68-b766-4083-a8a0-13ac9c20ab5e`). Aún no subido a herrera-piezas ni a Meta.
+Predictor G12: total 42, gancho 27, viral 39, retención 96.
